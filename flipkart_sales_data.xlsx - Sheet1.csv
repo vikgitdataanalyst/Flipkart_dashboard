@@ -1,0 +1,1007 @@
+Order ID,Product Category,Sales Amount,Quantity Sold,Order Date,Region,Customer Rating,Payment Method,Discount (%)
+ORD_1,Home Decor,16295,2,2023-01-01 00:00:00,East,1.5,UPI,10
+ORD_2,Beauty & Health,1360,5,2023-01-01 12:00:00,West,3.1,Credit Card,15
+ORD_3,Electronics,5890,1,2023-01-02 00:00:00,Central,1.5,Net_Banking,5
+ORD_4,Home Decor,12464,7,2023-01-02 12:00:00,South,2.1,UPI,5
+ORD_5,Grocery,11784,1,2023-01-03 00:00:00,South,1.2,COD,10
+ORD_6,Electronics,6765,4,2023-01-03 12:00:00,Central,3.8,Net Banking,15
+ORD_7,Toys & Baby,17350,9,2023-01-04 00:00:00,South,2.8,Credit Card,15
+ORD_8,Toys & Baby,4926,1,2023-01-04 12:00:00,East,4.6,COD,5
+ORD_9,Fashion,14923,4,2023-01-05 00:00:00,Central,3.8,Net Banking,5
+ORD_10,Beauty & Health,11863,6,2023-01-05 12:00:00,South,2,Net Banking,25
+ORD_11,Fashion,16523,6,2023-01-06 00:00:00,South,4.6,Credit Card,10
+ORD_12,Grocery,8822,8,2023-01-06 12:00:00,East,2.1,Credit Card,5
+ORD_13,Home Decor,2185,1,2023-01-07 00:00:00,North,3.3,Net Banking,15
+ORD_14,Grocery,1269,7,2023-01-07 12:00:00,East,1.4,Net Banking,10
+ORD_15,Home Decor,2933,1,2023-01-08 00:00:00,West,2.7,UPI,20
+ORD_16,Beauty & Health,5811,7,2023-01-08 12:00:00,South,4.8,COD,5
+ORD_17,Fashion,5551,3,2023-01-09 00:00:00,North,4.4,COD,20
+ORD_18,Grocery,6920,8,2023-01-09 12:00:00,South,3.2,COD,10
+ORD_19,Books,18068,3,2023-01-10 00:00:00,West,1.5,COD,15
+ORD_20,Beauty & Health,6896,1,2023-01-10 12:00:00,Central,4.5,UPI,10
+ORD_21,Grocery,9166,8,2023-01-11 00:00:00,South,1.2,Debit Card,20
+ORD_22,Toys & Baby,19442,3,2023-01-11 12:00:00,East,3.1,Credit Card,20
+ORD_23,Home Decor,18931,2,2023-01-12 00:00:00,South,3.6,UPI,15
+ORD_24,Books,3247,1,2023-01-12 12:00:00,East,2.1,Net Banking,10
+ORD_25,Beauty & Health,689,3,2023-01-13 00:00:00,South,1.3,UPI,25
+ORD_26,Toys & Baby,19618,2,2023-01-13 12:00:00,West,3.7,Net Banking,25
+ORD_27,Electronics,3505,2,2023-01-14 00:00:00,Central,3.8,Credit Card,5
+ORD_28,Beauty & Health,2399,6,2023-01-14 12:00:00,West,4.7,UPI,5
+ORD_29,Toys & Baby,1767,1,2023-01-15 00:00:00,North,2.3,UPI,20
+ORD_30,Toys & Baby,18412,2,2023-01-15 12:00:00,East,4.7,Credit Card,25
+ORD_31,Electronics,11894,6,2023-01-16 00:00:00,East,3.8,UPI,5
+ORD_32,Home Decor,4056,3,2023-01-16 12:00:00,North,1.6,Credit Card,5
+ORD_33,Grocery,4390,4,2023-01-17 00:00:00,North,4.9,Credit Card,15
+ORD_34,Fashion,9338,1,2023-01-17 12:00:00,West,2.2,Debit Card,25
+ORD_35,Books,15002,8,2023-01-18 00:00:00,East,3.7,UPI,20
+ORD_36,Fashion,11127,7,2023-01-18 12:00:00,North,4.9,Credit Card,5
+ORD_37,Grocery,9292,7,2023-01-19 00:00:00,South,4.1,Credit Card,25
+ORD_38,Home Decor,11055,3,2023-01-19 12:00:00,East,1.9,Debit Card,15
+ORD_39,Beauty & Health,10753,3,2023-01-20 00:00:00,South,3.4,Debit Card,5
+ORD_40,Fashion,8933,2,2023-01-20 12:00:00,Central,1.2,Credit Card,15
+ORD_41,Home Decor,10733,1,2023-01-21 00:00:00,South,3.6,Debit Card,10
+ORD_42,Toys & Baby,11516,7,2023-01-21 12:00:00,South,3.9,Debit Card,25
+ORD_43,Grocery,3112,7,2023-01-22 00:00:00,South,4.1,COD,20
+ORD_44,Toys & Baby,16287,2,2023-01-22 12:00:00,West,1.8,Debit Card,15
+ORD_45,Grocery,17659,7,2023-01-23 00:00:00,South,3.1,UPI,10
+ORD_46,Home Decor,12706,8,2023-01-23 12:00:00,South,3.6,Net Banking,15
+ORD_47,Beauty & Health,8726,1,2023-01-24 00:00:00,East,3.4,UPI,25
+ORD_48,Electronics,15041,9,2023-01-24 12:00:00,East,2.4,Net Banking,20
+ORD_49,Fashion,3652,7,2023-01-25 00:00:00,East,4.4,Debit Card,5
+ORD_50,Beauty & Health,2085,3,2023-01-25 12:00:00,East,3.4,Credit Card,20
+ORD_51,Toys & Baby,4443,8,2023-01-26 00:00:00,North,1.9,Debit Card,10
+ORD_52,Books,19957,7,2023-01-26 12:00:00,West,1,Credit Card,10
+ORD_53,Grocery,1521,8,2023-01-27 00:00:00,East,1.4,Net Banking,5
+ORD_54,Toys & Baby,12153,6,2023-01-27 12:00:00,Central,2.8,Credit Card,15
+ORD_55,Books,11305,9,2023-01-28 00:00:00,South,4.9,COD,20
+ORD_56,Grocery,13917,5,2023-01-28 12:00:00,East,2.5,Credit Card,5
+ORD_57,Toys & Baby,8489,3,2023-01-29 00:00:00,West,3.7,Credit Card,25
+ORD_58,Home Decor,10192,3,2023-01-29 12:00:00,East,1.7,Debit Card,5
+ORD_59,Fashion,13490,1,2023-01-30 00:00:00,North,1.5,Debit Card,5
+ORD_60,Fashion,7373,8,2023-01-30 12:00:00,West,4.8,UPI,25
+ORD_61,Electronics,6175,2,2023-01-31 00:00:00,North,2.1,Debit Card,25
+ORD_62,Books,661,3,2023-01-31 12:00:00,North,4.6,UPI,25
+ORD_63,Electronics,4797,8,2023-02-01 00:00:00,West,4.4,Credit Card,15
+ORD_64,Home Decor,1495,8,2023-02-01 12:00:00,West,4.5,Net Banking,5
+ORD_65,Beauty & Health,12034,4,2023-02-02 00:00:00,South,3.8,Net Banking,15
+ORD_66,Grocery,8129,4,2023-02-02 12:00:00,North,4.2,Debit Card,5
+ORD_67,Home Decor,1516,5,2023-02-03 00:00:00,West,3.9,Debit Card,20
+ORD_68,Beauty & Health,9029,6,2023-02-03 12:00:00,South,2,Credit Card,5
+ORD_69,Fashion,17762,5,2023-02-04 00:00:00,Central,1.9,Debit Card,20
+ORD_70,Books,9768,7,2023-02-04 12:00:00,North,3,Debit Card,5
+ORD_71,Toys & Baby,12685,2,2023-02-05 00:00:00,South,4.9,UPI,15
+ORD_72,Electronics,6831,7,2023-02-05 12:00:00,Central,1.6,COD,20
+ORD_73,Fashion,9071,7,2023-02-06 00:00:00,Central,2.9,COD,5
+ORD_74,Electronics,7708,1,2023-02-06 12:00:00,West,2.1,Debit Card,20
+ORD_75,Toys & Baby,5776,7,2023-02-07 00:00:00,South,2.9,COD,20
+ORD_76,Home Decor,18946,5,2023-02-07 12:00:00,East,3,Net Banking,5
+ORD_77,Electronics,16948,3,2023-02-08 00:00:00,South,4.6,Credit Card,25
+ORD_78,Grocery,16716,3,2023-02-08 12:00:00,South,3.2,COD,20
+ORD_79,Toys & Baby,8506,4,2023-02-09 00:00:00,North,2.6,Debit Card,20
+ORD_80,Fashion,3068,2,2023-02-09 12:00:00,Central,1.7,Debit Card,10
+ORD_81,Grocery,2527,2,2023-02-10 00:00:00,South,3,Net Banking,10
+ORD_82,Grocery,3195,1,2023-02-10 12:00:00,North,4.9,COD,15
+ORD_83,Electronics,15922,5,2023-02-11 00:00:00,Central,4.7,Net Banking,5
+ORD_84,Grocery,5758,4,2023-02-11 12:00:00,South,3.9,Net Banking,15
+ORD_85,Fashion,7236,2,2023-02-12 00:00:00,East,2.2,Net Banking,25
+ORD_86,Books,891,3,2023-02-12 12:00:00,South,3.4,Debit Card,5
+ORD_87,Grocery,14486,7,2023-02-13 00:00:00,Central,2.7,Debit Card,10
+ORD_88,Beauty & Health,13166,7,2023-02-13 12:00:00,East,4.1,Debit Card,15
+ORD_89,Grocery,6392,4,2023-02-14 00:00:00,North,1,UPI,15
+ORD_90,Toys & Baby,4061,5,2023-02-14 12:00:00,West,2.9,Net Banking,10
+ORD_91,Electronics,6684,5,2023-02-15 00:00:00,South,3.8,Debit Card,5
+ORD_92,Books,19983,6,2023-02-15 12:00:00,West,1.8,UPI,25
+ORD_93,Toys & Baby,8892,9,2023-02-16 00:00:00,North,4.4,Net Banking,15
+ORD_94,Toys & Baby,13567,2,2023-02-16 12:00:00,West,1.6,Credit Card,5
+ORD_95,Electronics,15765,5,2023-02-17 00:00:00,West,4.5,COD,5
+ORD_96,Fashion,19988,3,2023-02-17 12:00:00,North,4.3,Debit Card,15
+ORD_97,Beauty & Health,2954,4,2023-02-18 00:00:00,Central,4.4,COD,5
+ORD_98,Books,12337,6,2023-02-18 12:00:00,West,4,UPI,15
+ORD_99,Toys & Baby,14539,8,2023-02-19 00:00:00,South,4.7,Credit Card,5
+ORD_100,Grocery,19615,1,2023-02-19 12:00:00,North,4.1,Credit Card,15
+ORD_101,Grocery,11465,8,2023-02-20 00:00:00,Central,4.8,Net Banking,20
+ORD_102,Toys & Baby,10262,7,2023-02-20 12:00:00,North,4.3,Debit Card,10
+ORD_103,Fashion,5556,1,2023-02-21 00:00:00,West,4.1,UPI,15
+ORD_104,Beauty & Health,15448,2,2023-02-21 12:00:00,North,2.3,Debit Card,20
+ORD_105,Home Decor,8610,3,2023-02-22 00:00:00,South,2.3,COD,15
+ORD_106,Electronics,14273,1,2023-02-22 12:00:00,Central,1.5,COD,25
+ORD_107,Electronics,17912,9,2023-02-23 00:00:00,North,4.3,Credit Card,25
+ORD_108,Home Decor,1002,8,2023-02-23 12:00:00,Central,5,Net Banking,5
+ORD_109,Beauty & Health,7410,2,2023-02-24 00:00:00,East,3.6,Net Banking,15
+ORD_110,Toys & Baby,13185,9,2023-02-24 12:00:00,East,2,Credit Card,25
+ORD_111,Books,706,7,2023-02-25 00:00:00,West,2.8,Debit Card,25
+ORD_112,Toys & Baby,18368,9,2023-02-25 12:00:00,West,4.3,UPI,25
+ORD_113,Beauty & Health,16434,6,2023-02-26 00:00:00,Central,1,UPI,25
+ORD_114,Grocery,17747,6,2023-02-26 12:00:00,Central,2.8,COD,10
+ORD_115,Beauty & Health,19674,4,2023-02-27 00:00:00,East,3.9,Debit Card,15
+ORD_116,Toys & Baby,9255,2,2023-02-27 12:00:00,Central,2.6,Debit Card,20
+ORD_117,Beauty & Health,12883,7,2023-02-28 00:00:00,East,4.7,COD,25
+ORD_118,Toys & Baby,18641,5,2023-02-28 12:00:00,Central,3.3,Credit Card,5
+ORD_119,Fashion,15320,6,2023-03-01 00:00:00,South,3.8,Credit Card,20
+ORD_120,Fashion,8074,2,2023-03-01 12:00:00,North,4.6,Credit Card,10
+ORD_121,Fashion,6874,5,2023-03-02 00:00:00,South,1.5,Debit Card,10
+ORD_122,Toys & Baby,2178,4,2023-03-02 12:00:00,East,1.7,Debit Card,25
+ORD_123,Electronics,1559,9,2023-03-03 00:00:00,East,2,COD,15
+ORD_124,Beauty & Health,16698,6,2023-03-03 12:00:00,East,3,Debit Card,5
+ORD_125,Toys & Baby,10414,2,2023-03-04 00:00:00,North,1.8,UPI,5
+ORD_126,Toys & Baby,11317,1,2023-03-04 12:00:00,North,1.8,COD,25
+ORD_127,Toys & Baby,11421,5,2023-03-05 00:00:00,East,3.8,COD,5
+ORD_128,Grocery,10289,9,2023-03-05 12:00:00,Central,2.3,COD,25
+ORD_129,Books,16812,6,2023-03-06 00:00:00,South,2.8,COD,25
+ORD_130,Beauty & Health,11752,7,2023-03-06 12:00:00,Central,4.6,Debit Card,5
+ORD_131,Fashion,3193,5,2023-03-07 00:00:00,West,2.5,COD,20
+ORD_132,Home Decor,14431,6,2023-03-07 12:00:00,South,1.5,Credit Card,15
+ORD_133,Electronics,4127,5,2023-03-08 00:00:00,West,2.5,Credit Card,25
+ORD_134,Books,16657,9,2023-03-08 12:00:00,Central,3,Net Banking,10
+ORD_135,Fashion,10673,6,2023-03-09 00:00:00,South,3.3,Credit Card,5
+ORD_136,Grocery,18547,8,2023-03-09 12:00:00,East,2.7,UPI,20
+ORD_137,Home Decor,10730,2,2023-03-10 00:00:00,South,4.5,Debit Card,25
+ORD_138,Grocery,16207,9,2023-03-10 12:00:00,East,1.4,UPI,5
+ORD_139,Home Decor,11994,5,2023-03-11 00:00:00,North,3.7,Credit Card,20
+ORD_140,Home Decor,1806,7,2023-03-11 12:00:00,South,4.6,UPI,10
+ORD_141,Home Decor,7276,1,2023-03-12 00:00:00,West,3.9,Credit Card,5
+ORD_142,Books,9974,5,2023-03-12 12:00:00,West,4.2,Debit Card,5
+ORD_143,Electronics,8026,2,2023-03-13 00:00:00,Central,3.1,Debit Card,10
+ORD_144,Fashion,6030,6,2023-03-13 12:00:00,West,4.6,UPI,20
+ORD_145,Books,4248,1,2023-03-14 00:00:00,North,4,COD,20
+ORD_146,Toys & Baby,14045,3,2023-03-14 12:00:00,North,2.6,Debit Card,15
+ORD_147,Fashion,1163,5,2023-03-15 00:00:00,Central,3.1,UPI,10
+ORD_148,Fashion,2498,4,2023-03-15 12:00:00,South,1.2,COD,5
+ORD_149,Books,8494,3,2023-03-16 00:00:00,Central,4.3,Debit Card,5
+ORD_150,Electronics,18379,5,2023-03-16 12:00:00,North,2.8,Credit Card,10
+ORD_151,Home Decor,3804,8,2023-03-17 00:00:00,West,3.7,Debit Card,20
+ORD_152,Grocery,18737,4,2023-03-17 12:00:00,Central,3.3,UPI,25
+ORD_153,Fashion,14308,1,2023-03-18 00:00:00,Central,2.9,UPI,20
+ORD_154,Toys & Baby,7085,7,2023-03-18 12:00:00,South,1.8,UPI,10
+ORD_155,Grocery,18175,8,2023-03-19 00:00:00,East,2,COD,15
+ORD_156,Electronics,12149,3,2023-03-19 12:00:00,Central,4.8,UPI,15
+ORD_157,Toys & Baby,2136,6,2023-03-20 00:00:00,Central,4.2,COD,25
+ORD_158,Home Decor,17582,2,2023-03-20 12:00:00,East,2.9,Net Banking,5
+ORD_159,Home Decor,5237,7,2023-03-21 00:00:00,North,2.5,COD,5
+ORD_160,Electronics,15055,8,2023-03-21 12:00:00,North,4.6,Credit Card,25
+ORD_161,Grocery,14377,6,2023-03-22 00:00:00,Central,2.2,Credit Card,10
+ORD_162,Fashion,1354,6,2023-03-22 12:00:00,South,1.7,Credit Card,10
+ORD_163,Fashion,6355,5,2023-03-23 00:00:00,East,1.2,COD,5
+ORD_164,Books,7892,8,2023-03-23 12:00:00,East,3.2,UPI,10
+ORD_165,Toys & Baby,14449,1,2023-03-24 00:00:00,Central,3.8,Debit Card,25
+ORD_166,Fashion,18591,4,2023-03-24 12:00:00,East,2,UPI,20
+ORD_167,Fashion,6291,4,2023-03-25 00:00:00,West,3.1,UPI,15
+ORD_168,Grocery,5431,3,2023-03-25 12:00:00,West,3.1,Debit Card,25
+ORD_169,Grocery,702,3,2023-03-26 00:00:00,South,3.5,Debit Card,5
+ORD_170,Beauty & Health,11947,4,2023-03-26 12:00:00,North,3.5,Credit Card,25
+ORD_171,Books,13188,1,2023-03-27 00:00:00,South,1.1,Debit Card,5
+ORD_172,Toys & Baby,4889,2,2023-03-27 12:00:00,Central,3.8,Credit Card,25
+ORD_173,Grocery,2827,9,2023-03-28 00:00:00,West,2.3,COD,25
+ORD_174,Toys & Baby,8504,2,2023-03-28 12:00:00,West,4.5,UPI,20
+ORD_175,Grocery,19815,5,2023-03-29 00:00:00,Central,4.4,Credit Card,10
+ORD_176,Electronics,8277,9,2023-03-29 12:00:00,East,2.2,Credit Card,5
+ORD_177,Books,697,9,2023-03-30 00:00:00,South,4.4,Credit Card,10
+ORD_178,Electronics,2430,8,2023-03-30 12:00:00,North,4.9,COD,5
+ORD_179,Home Decor,12274,1,2023-03-31 00:00:00,South,2.8,UPI,5
+ORD_180,Books,15587,1,2023-03-31 12:00:00,South,1.7,Net Banking,10
+ORD_181,Home Decor,9839,9,2023-04-01 00:00:00,Central,3.8,COD,20
+ORD_182,Beauty & Health,12089,8,2023-04-01 12:00:00,East,4.5,Net Banking,25
+ORD_183,Fashion,19395,9,2023-04-02 00:00:00,North,2.2,Debit Card,20
+ORD_184,Grocery,16208,7,2023-04-02 12:00:00,North,2.2,Credit Card,20
+ORD_185,Books,17543,3,2023-04-03 00:00:00,Central,1.3,Debit Card,5
+ORD_186,Books,3311,3,2023-04-03 12:00:00,West,2.7,UPI,10
+ORD_187,Toys & Baby,14743,2,2023-04-04 00:00:00,North,4.8,COD,25
+ORD_188,Fashion,7046,5,2023-04-04 12:00:00,North,4.6,Debit Card,15
+ORD_189,Home Decor,2486,3,2023-04-05 00:00:00,West,3.9,Net Banking,5
+ORD_190,Toys & Baby,8838,6,2023-04-05 12:00:00,North,4.1,UPI,15
+ORD_191,Electronics,11911,2,2023-04-06 00:00:00,North,2.6,Debit Card,15
+ORD_192,Books,3411,3,2023-04-06 12:00:00,West,2.4,Debit Card,10
+ORD_193,Electronics,2234,5,2023-04-07 00:00:00,South,1.5,COD,15
+ORD_194,Beauty & Health,18727,1,2023-04-07 12:00:00,East,3.8,COD,10
+ORD_195,Beauty & Health,9180,1,2023-04-08 00:00:00,South,2.8,Net Banking,5
+ORD_196,Fashion,19860,9,2023-04-08 12:00:00,South,4.3,COD,20
+ORD_197,Toys & Baby,18843,7,2023-04-09 00:00:00,North,4.6,Debit Card,25
+ORD_198,Grocery,6259,1,2023-04-09 12:00:00,South,4.7,UPI,20
+ORD_199,Electronics,2885,8,2023-04-10 00:00:00,East,2.5,Credit Card,10
+ORD_200,Toys & Baby,11611,3,2023-04-10 12:00:00,South,4.3,COD,20
+ORD_201,Toys & Baby,5236,8,2023-04-11 00:00:00,West,2.7,COD,20
+ORD_202,Home Decor,2302,5,2023-04-11 12:00:00,Central,4.4,UPI,20
+ORD_203,Grocery,8655,1,2023-04-12 00:00:00,South,2.8,COD,15
+ORD_204,Toys & Baby,8620,7,2023-04-12 12:00:00,North,1.8,COD,25
+ORD_205,Beauty & Health,7116,5,2023-04-13 00:00:00,East,2,Debit Card,10
+ORD_206,Electronics,14757,6,2023-04-13 12:00:00,South,3.5,COD,5
+ORD_207,Books,14986,6,2023-04-14 00:00:00,East,1.7,COD,15
+ORD_208,Toys & Baby,17146,8,2023-04-14 12:00:00,Central,1.4,Net Banking,10
+ORD_209,Grocery,14575,9,2023-04-15 00:00:00,South,1.6,Net Banking,15
+ORD_210,Fashion,9708,2,2023-04-15 12:00:00,West,4.1,UPI,25
+ORD_211,Beauty & Health,16871,9,2023-04-16 00:00:00,West,2.9,Debit Card,20
+ORD_212,Toys & Baby,12335,9,2023-04-16 12:00:00,East,1.1,UPI,10
+ORD_213,Toys & Baby,13668,7,2023-04-17 00:00:00,Central,4.7,Debit Card,20
+ORD_214,Fashion,2549,1,2023-04-17 12:00:00,East,1.3,Net Banking,5
+ORD_215,Toys & Baby,5923,7,2023-04-18 00:00:00,East,3.4,COD,10
+ORD_216,Grocery,15089,5,2023-04-18 12:00:00,East,1.6,Net Banking,5
+ORD_217,Electronics,19992,6,2023-04-19 00:00:00,Central,4.4,Credit Card,10
+ORD_218,Home Decor,7658,7,2023-04-19 12:00:00,West,2.5,UPI,5
+ORD_219,Books,10748,5,2023-04-20 00:00:00,North,2.5,UPI,25
+ORD_220,Electronics,7900,7,2023-04-20 12:00:00,Central,2.1,Debit Card,20
+ORD_221,Home Decor,10374,9,2023-04-21 00:00:00,North,2.2,Debit Card,5
+ORD_222,Electronics,15651,3,2023-04-21 12:00:00,Central,2.8,UPI,10
+ORD_223,Books,19139,8,2023-04-22 00:00:00,East,4.5,COD,20
+ORD_224,Home Decor,1654,2,2023-04-22 12:00:00,Central,1.3,Net Banking,25
+ORD_225,Fashion,4999,7,2023-04-23 00:00:00,West,3,Credit Card,15
+ORD_226,Beauty & Health,6795,2,2023-04-23 12:00:00,West,3.3,COD,20
+ORD_227,Toys & Baby,12683,4,2023-04-24 00:00:00,Central,2.9,Net Banking,5
+ORD_228,Toys & Baby,13374,7,2023-04-24 12:00:00,North,3,Debit Card,5
+ORD_229,Home Decor,18532,3,2023-04-25 00:00:00,East,1.5,COD,10
+ORD_230,Home Decor,6039,2,2023-04-25 12:00:00,West,2.2,COD,20
+ORD_231,Fashion,10137,7,2023-04-26 00:00:00,West,2.3,Net Banking,25
+ORD_232,Home Decor,16086,1,2023-04-26 12:00:00,North,1.9,Net Banking,5
+ORD_233,Beauty & Health,3057,8,2023-04-27 00:00:00,Central,2.5,UPI,25
+ORD_234,Grocery,6092,3,2023-04-27 12:00:00,East,1.5,UPI,5
+ORD_235,Electronics,16982,2,2023-04-28 00:00:00,North,1.8,Debit Card,25
+ORD_236,Electronics,2700,3,2023-04-28 12:00:00,East,4.1,Credit Card,20
+ORD_237,Toys & Baby,14672,5,2023-04-29 00:00:00,South,4.6,COD,15
+ORD_238,Toys & Baby,3461,8,2023-04-29 12:00:00,East,2.7,Credit Card,25
+ORD_239,Grocery,14707,7,2023-04-30 00:00:00,West,3.5,Credit Card,5
+ORD_240,Toys & Baby,12469,7,2023-04-30 12:00:00,Central,2.5,Net Banking,20
+ORD_241,Toys & Baby,3369,7,2023-05-01 00:00:00,East,4.6,COD,5
+ORD_242,Home Decor,17840,8,2023-05-01 12:00:00,North,4,COD,20
+ORD_243,Home Decor,14492,1,2023-05-02 00:00:00,North,4.5,Credit Card,5
+ORD_244,Home Decor,6199,4,2023-05-02 12:00:00,Central,2.4,Debit Card,25
+ORD_245,Home Decor,4487,6,2023-05-03 00:00:00,North,3.4,Net Banking,25
+ORD_246,Home Decor,13946,9,2023-05-03 12:00:00,West,4.7,Net Banking,15
+ORD_247,Books,1718,2,2023-05-04 00:00:00,West,1.6,Debit Card,10
+ORD_248,Beauty & Health,5235,1,2023-05-04 12:00:00,North,4.8,Credit Card,5
+ORD_249,Fashion,11796,2,2023-05-05 00:00:00,North,4.4,COD,5
+ORD_250,Toys & Baby,5055,7,2023-05-05 12:00:00,Central,2,Net Banking,10
+ORD_251,Fashion,9646,3,2023-05-06 00:00:00,Central,5,COD,25
+ORD_252,Beauty & Health,8550,2,2023-05-06 12:00:00,South,2.6,UPI,10
+ORD_253,Home Decor,13257,7,2023-05-07 00:00:00,West,1.6,Debit Card,15
+ORD_254,Beauty & Health,17929,2,2023-05-07 12:00:00,East,4.8,COD,20
+ORD_255,Beauty & Health,7393,3,2023-05-08 00:00:00,Central,3.3,Net Banking,5
+ORD_256,Toys & Baby,18577,7,2023-05-08 12:00:00,East,1.6,Debit Card,15
+ORD_257,Beauty & Health,14873,4,2023-05-09 00:00:00,North,2.1,COD,10
+ORD_258,Home Decor,15065,1,2023-05-09 12:00:00,East,3.5,UPI,20
+ORD_259,Toys & Baby,3936,5,2023-05-10 00:00:00,North,3.6,Credit Card,20
+ORD_260,Fashion,9254,9,2023-05-10 12:00:00,South,1.2,COD,25
+ORD_261,Grocery,11177,8,2023-05-11 00:00:00,Central,1.1,UPI,5
+ORD_262,Grocery,6395,9,2023-05-11 12:00:00,North,1.3,Net Banking,5
+ORD_263,Home Decor,17109,9,2023-05-12 00:00:00,East,3.4,Debit Card,15
+ORD_264,Beauty & Health,16136,7,2023-05-12 12:00:00,Central,3.5,Debit Card,20
+ORD_265,Grocery,7522,4,2023-05-13 00:00:00,South,3.8,COD,15
+ORD_266,Fashion,9651,5,2023-05-13 12:00:00,East,1.7,Credit Card,25
+ORD_267,Home Decor,6100,1,2023-05-14 00:00:00,South,3.4,Debit Card,10
+ORD_268,Toys & Baby,8496,1,2023-05-14 12:00:00,South,5,Credit Card,25
+ORD_269,Home Decor,9507,3,2023-05-15 00:00:00,North,3.5,UPI,10
+ORD_270,Home Decor,13446,8,2023-05-15 12:00:00,East,3.9,Credit Card,20
+ORD_271,Electronics,5142,2,2023-05-16 00:00:00,North,1.6,Debit Card,15
+ORD_272,Beauty & Health,11812,4,2023-05-16 12:00:00,East,2.4,COD,25
+ORD_273,Books,8179,2,2023-05-17 00:00:00,Central,3,UPI,25
+ORD_274,Toys & Baby,8708,5,2023-05-17 12:00:00,West,1.8,Debit Card,10
+ORD_275,Beauty & Health,19089,9,2023-05-18 00:00:00,South,3.8,COD,20
+ORD_276,Books,11216,1,2023-05-18 12:00:00,West,2.8,COD,5
+ORD_277,Beauty & Health,17953,5,2023-05-19 00:00:00,South,4.6,COD,15
+ORD_278,Home Decor,3944,9,2023-05-19 12:00:00,North,3,Credit Card,10
+ORD_279,Fashion,11257,1,2023-05-20 00:00:00,West,1.7,COD,15
+ORD_280,Electronics,14934,9,2023-05-20 12:00:00,South,2.6,Net Banking,10
+ORD_281,Toys & Baby,1560,8,2023-05-21 00:00:00,North,2.1,Debit Card,5
+ORD_282,Electronics,19211,4,2023-05-21 12:00:00,Central,2.3,COD,10
+ORD_283,Grocery,3920,5,2023-05-22 00:00:00,North,3.2,Credit Card,20
+ORD_284,Electronics,801,5,2023-05-22 12:00:00,North,4.8,Credit Card,20
+ORD_285,Toys & Baby,12968,6,2023-05-23 00:00:00,Central,4,UPI,25
+ORD_286,Books,17490,7,2023-05-23 12:00:00,North,4.8,COD,5
+ORD_287,Toys & Baby,1199,8,2023-05-24 00:00:00,North,3.3,Debit Card,5
+ORD_288,Fashion,690,8,2023-05-24 12:00:00,South,3.7,Net Banking,25
+ORD_289,Toys & Baby,10992,2,2023-05-25 00:00:00,South,2.1,COD,10
+ORD_290,Beauty & Health,17864,9,2023-05-25 12:00:00,Central,3.9,Debit Card,5
+ORD_291,Grocery,3475,7,2023-05-26 00:00:00,North,3.1,UPI,15
+ORD_292,Books,6602,4,2023-05-26 12:00:00,South,4.6,COD,15
+ORD_293,Books,18068,4,2023-05-27 00:00:00,West,4.3,Debit Card,20
+ORD_294,Home Decor,2316,8,2023-05-27 12:00:00,East,2.7,Debit Card,10
+ORD_295,Grocery,1069,4,2023-05-28 00:00:00,East,4.9,Credit Card,15
+ORD_296,Electronics,5942,6,2023-05-28 12:00:00,Central,2.5,Credit Card,20
+ORD_297,Electronics,2395,5,2023-05-29 00:00:00,South,4.7,Debit Card,20
+ORD_298,Fashion,19617,3,2023-05-29 12:00:00,West,1.5,COD,25
+ORD_299,Books,4363,2,2023-05-30 00:00:00,West,1.9,COD,15
+ORD_300,Toys & Baby,13413,9,2023-05-30 12:00:00,West,3.9,UPI,20
+ORD_301,Beauty & Health,7955,9,2023-05-31 00:00:00,Central,2.4,COD,25
+ORD_302,Beauty & Health,4514,1,2023-05-31 12:00:00,West,2.4,Debit Card,15
+ORD_303,Fashion,11593,3,2023-06-01 00:00:00,West,4.8,Debit Card,5
+ORD_304,Home Decor,18570,8,2023-06-01 12:00:00,East,2.7,Credit Card,5
+ORD_305,Grocery,3509,6,2023-06-02 00:00:00,East,3.3,Net Banking,25
+ORD_306,Books,17038,5,2023-06-02 12:00:00,West,1.7,UPI,10
+ORD_307,Beauty & Health,11229,5,2023-06-03 00:00:00,Central,1.7,COD,15
+ORD_308,Books,1909,6,2023-06-03 12:00:00,Central,4.5,Net Banking,20
+ORD_309,Fashion,12749,7,2023-06-04 00:00:00,Central,1.4,COD,25
+ORD_310,Toys & Baby,1284,1,2023-06-04 12:00:00,North,1,UPI,15
+ORD_311,Toys & Baby,8596,9,2023-06-05 00:00:00,South,2.5,Debit Card,5
+ORD_312,Electronics,8060,3,2023-06-05 12:00:00,North,3.5,UPI,5
+ORD_313,Grocery,13033,4,2023-06-06 00:00:00,South,2.1,Debit Card,5
+ORD_314,Fashion,7843,1,2023-06-06 12:00:00,North,4.1,Debit Card,5
+ORD_315,Toys & Baby,7706,3,2023-06-07 00:00:00,West,4.7,Debit Card,5
+ORD_316,Home Decor,6301,2,2023-06-07 12:00:00,North,1.6,Debit Card,10
+ORD_317,Grocery,19690,2,2023-06-08 00:00:00,Central,1.7,Debit Card,5
+ORD_318,Fashion,17421,1,2023-06-08 12:00:00,Central,3.8,Debit Card,10
+ORD_319,Home Decor,6486,8,2023-06-09 00:00:00,West,1.1,UPI,10
+ORD_320,Electronics,18725,3,2023-06-09 12:00:00,South,3.6,Debit Card,5
+ORD_321,Home Decor,11147,3,2023-06-10 00:00:00,North,4.5,Net Banking,5
+ORD_322,Beauty & Health,9216,6,2023-06-10 12:00:00,North,4.2,Net Banking,10
+ORD_323,Grocery,19834,8,2023-06-11 00:00:00,South,3.7,Debit Card,10
+ORD_324,Beauty & Health,12823,9,2023-06-11 12:00:00,South,4.5,Net Banking,15
+ORD_325,Grocery,5280,9,2023-06-12 00:00:00,East,5,UPI,5
+ORD_326,Fashion,2868,4,2023-06-12 12:00:00,South,2.2,UPI,5
+ORD_327,Books,12539,5,2023-06-13 00:00:00,South,2.9,Debit Card,15
+ORD_328,Fashion,7155,2,2023-06-13 12:00:00,South,2.5,UPI,25
+ORD_329,Home Decor,8673,9,2023-06-14 00:00:00,North,1.8,COD,20
+ORD_330,Beauty & Health,4995,8,2023-06-14 12:00:00,Central,1.9,COD,25
+ORD_331,Home Decor,11393,3,2023-06-15 00:00:00,North,1.2,Debit Card,15
+ORD_332,Books,13903,9,2023-06-15 12:00:00,West,4.6,Credit Card,10
+ORD_333,Toys & Baby,13621,3,2023-06-16 00:00:00,South,2,COD,20
+ORD_334,Toys & Baby,11466,9,2023-06-16 12:00:00,North,4.7,Credit Card,5
+ORD_335,Grocery,1353,2,2023-06-17 00:00:00,Central,1.1,Credit Card,5
+ORD_336,Fashion,17458,9,2023-06-17 12:00:00,West,3.1,COD,5
+ORD_337,Home Decor,18032,8,2023-06-18 00:00:00,West,3.6,UPI,25
+ORD_338,Home Decor,10407,9,2023-06-18 12:00:00,South,4.2,Credit Card,20
+ORD_339,Beauty & Health,5277,5,2023-06-19 00:00:00,West,5,COD,10
+ORD_340,Books,15838,2,2023-06-19 12:00:00,South,1.2,UPI,20
+ORD_341,Grocery,2991,8,2023-06-20 00:00:00,West,1.2,COD,20
+ORD_342,Fashion,15828,6,2023-06-20 12:00:00,East,4.4,Debit Card,10
+ORD_343,Grocery,15099,8,2023-06-21 00:00:00,South,3.8,Debit Card,20
+ORD_344,Beauty & Health,3551,5,2023-06-21 12:00:00,Central,2.8,Net Banking,15
+ORD_345,Toys & Baby,16479,2,2023-06-22 00:00:00,North,3,COD,20
+ORD_346,Fashion,16888,6,2023-06-22 12:00:00,North,1,UPI,20
+ORD_347,Grocery,1376,5,2023-06-23 00:00:00,Central,1.8,Credit Card,25
+ORD_348,Toys & Baby,4642,5,2023-06-23 12:00:00,North,4.6,Net Banking,25
+ORD_349,Electronics,15702,1,2023-06-24 00:00:00,East,3.5,Net Banking,15
+ORD_350,Beauty & Health,7466,2,2023-06-24 12:00:00,West,1.6,Credit Card,25
+ORD_351,Toys & Baby,7579,8,2023-06-25 00:00:00,South,2.9,Credit Card,25
+ORD_352,Grocery,8487,3,2023-06-25 12:00:00,North,2.2,Debit Card,25
+ORD_353,Grocery,7299,3,2023-06-26 00:00:00,North,2.4,UPI,10
+ORD_354,Grocery,4965,8,2023-06-26 12:00:00,Central,1.3,Net Banking,5
+ORD_355,Toys & Baby,17519,8,2023-06-27 00:00:00,South,1.6,Credit Card,10
+ORD_356,Beauty & Health,13917,2,2023-06-27 12:00:00,North,2.7,Net Banking,10
+ORD_357,Electronics,18577,8,2023-06-28 00:00:00,East,4.7,Credit Card,25
+ORD_358,Books,8811,1,2023-06-28 12:00:00,Central,4.2,COD,25
+ORD_359,Grocery,17714,6,2023-06-29 00:00:00,West,4.9,UPI,15
+ORD_360,Electronics,14598,8,2023-06-29 12:00:00,East,2.1,Debit Card,5
+ORD_361,Fashion,5677,3,2023-06-30 00:00:00,Central,4.5,UPI,10
+ORD_362,Books,14762,8,2023-06-30 12:00:00,South,2.9,COD,25
+ORD_363,Toys & Baby,8808,1,2023-07-01 00:00:00,North,2.7,Debit Card,15
+ORD_364,Electronics,6449,9,2023-07-01 12:00:00,Central,3.5,COD,5
+ORD_365,Books,19722,9,2023-07-02 00:00:00,South,2.6,Net Banking,5
+ORD_366,Fashion,1650,5,2023-07-02 12:00:00,East,3.4,COD,20
+ORD_367,Books,2431,4,2023-07-03 00:00:00,East,4.8,UPI,15
+ORD_368,Books,9704,6,2023-07-03 12:00:00,East,1.3,Net Banking,5
+ORD_369,Beauty & Health,18548,7,2023-07-04 00:00:00,South,2,Credit Card,20
+ORD_370,Beauty & Health,1581,5,2023-07-04 12:00:00,North,3.4,Credit Card,20
+ORD_371,Electronics,17396,9,2023-07-05 00:00:00,South,3.6,Net Banking,15
+ORD_372,Electronics,13907,3,2023-07-05 12:00:00,West,3.2,UPI,25
+ORD_373,Books,8305,7,2023-07-06 00:00:00,North,4.1,Net Banking,25
+ORD_374,Books,5737,5,2023-07-06 12:00:00,Central,4.9,COD,20
+ORD_375,Grocery,17443,7,2023-07-07 00:00:00,North,2.2,Credit Card,15
+ORD_376,Beauty & Health,13275,2,2023-07-07 12:00:00,West,2.2,Net Banking,10
+ORD_377,Fashion,16744,4,2023-07-08 00:00:00,West,4.1,Credit Card,25
+ORD_378,Home Decor,13684,2,2023-07-08 12:00:00,West,2.4,UPI,5
+ORD_379,Fashion,3843,7,2023-07-09 00:00:00,North,3.9,Net Banking,15
+ORD_380,Grocery,14000,2,2023-07-09 12:00:00,West,3.7,Credit Card,5
+ORD_381,Toys & Baby,10162,1,2023-07-10 00:00:00,West,3.4,Credit Card,25
+ORD_382,Home Decor,17464,9,2023-07-10 12:00:00,East,1.7,COD,20
+ORD_383,Beauty & Health,15625,1,2023-07-11 00:00:00,North,1.8,UPI,20
+ORD_384,Fashion,8630,8,2023-07-11 12:00:00,East,3.4,Debit Card,15
+ORD_385,Grocery,2179,2,2023-07-12 00:00:00,East,3.6,Debit Card,5
+ORD_386,Beauty & Health,4006,8,2023-07-12 12:00:00,East,2.9,UPI,20
+ORD_387,Beauty & Health,13784,3,2023-07-13 00:00:00,South,3.9,Debit Card,5
+ORD_388,Fashion,7753,6,2023-07-13 12:00:00,East,2.5,Debit Card,15
+ORD_389,Electronics,19628,3,2023-07-14 00:00:00,East,4.7,Debit Card,10
+ORD_390,Books,9935,7,2023-07-14 12:00:00,East,2.4,Net Banking,10
+ORD_391,Toys & Baby,11810,9,2023-07-15 00:00:00,North,2.4,Credit Card,5
+ORD_392,Electronics,13796,2,2023-07-15 12:00:00,South,2.7,Net Banking,5
+ORD_393,Beauty & Health,19025,5,2023-07-16 00:00:00,East,2.9,UPI,5
+ORD_394,Beauty & Health,13745,6,2023-07-16 12:00:00,North,3.2,UPI,5
+ORD_395,Beauty & Health,11651,4,2023-07-17 00:00:00,Central,1.6,Credit Card,5
+ORD_396,Books,10957,4,2023-07-17 12:00:00,Central,3.6,Debit Card,20
+ORD_397,Fashion,2979,4,2023-07-18 00:00:00,Central,3.4,Net Banking,25
+ORD_398,Books,4952,2,2023-07-18 12:00:00,North,3,Net Banking,10
+ORD_399,Grocery,6381,4,2023-07-19 00:00:00,West,2.3,Net Banking,25
+ORD_400,Beauty & Health,14569,1,2023-07-19 12:00:00,Central,1.1,Debit Card,25
+ORD_401,Fashion,3349,6,2023-07-20 00:00:00,West,2.5,Credit Card,25
+ORD_402,Home Decor,7890,1,2023-07-20 12:00:00,South,1.6,COD,5
+ORD_403,Grocery,12422,6,2023-07-21 00:00:00,East,1,COD,15
+ORD_404,Home Decor,2989,1,2023-07-21 12:00:00,West,1.1,Credit Card,25
+ORD_405,Fashion,10323,6,2023-07-22 00:00:00,West,4.7,Credit Card,5
+ORD_406,Home Decor,9707,8,2023-07-22 12:00:00,North,4.5,Debit Card,25
+ORD_407,Grocery,10040,2,2023-07-23 00:00:00,East,3.4,UPI,20
+ORD_408,Books,16864,2,2023-07-23 12:00:00,South,3.7,COD,25
+ORD_409,Electronics,5111,4,2023-07-24 00:00:00,East,1.1,COD,20
+ORD_410,Grocery,19723,3,2023-07-24 12:00:00,South,3.3,Debit Card,15
+ORD_411,Toys & Baby,6378,4,2023-07-25 00:00:00,South,4.5,COD,5
+ORD_412,Electronics,16847,7,2023-07-25 12:00:00,West,3.9,Credit Card,10
+ORD_413,Toys & Baby,1351,1,2023-07-26 00:00:00,Central,5,Debit Card,10
+ORD_414,Electronics,18571,6,2023-07-26 12:00:00,East,1.2,Debit Card,10
+ORD_415,Toys & Baby,7333,3,2023-07-27 00:00:00,South,3.6,Credit Card,15
+ORD_416,Books,12438,7,2023-07-27 12:00:00,Central,4.7,Credit Card,15
+ORD_417,Electronics,2927,2,2023-07-28 00:00:00,West,3.3,UPI,25
+ORD_418,Grocery,4500,2,2023-07-28 12:00:00,North,2.6,UPI,15
+ORD_419,Grocery,5552,4,2023-07-29 00:00:00,North,3.3,COD,5
+ORD_420,Beauty & Health,3238,1,2023-07-29 12:00:00,North,1.4,Net Banking,20
+ORD_421,Fashion,5887,3,2023-07-30 00:00:00,East,3.6,COD,15
+ORD_422,Electronics,8502,9,2023-07-30 12:00:00,South,4.6,Debit Card,5
+ORD_423,Grocery,6036,7,2023-07-31 00:00:00,East,1.7,UPI,15
+ORD_424,Books,13979,7,2023-07-31 12:00:00,Central,2.3,COD,25
+ORD_425,Home Decor,4413,4,2023-08-01 00:00:00,Central,1.7,Credit Card,25
+ORD_426,Electronics,17950,2,2023-08-01 12:00:00,South,4.1,UPI,20
+ORD_427,Grocery,11136,4,2023-08-02 00:00:00,South,4.5,Debit Card,15
+ORD_428,Electronics,6226,6,2023-08-02 12:00:00,South,3.2,COD,15
+ORD_429,Toys & Baby,3873,3,2023-08-03 00:00:00,Central,3.4,Debit Card,20
+ORD_430,Toys & Baby,12661,1,2023-08-03 12:00:00,North,3.3,COD,15
+ORD_431,Beauty & Health,2582,8,2023-08-04 00:00:00,South,4.1,UPI,15
+ORD_432,Grocery,16781,5,2023-08-04 12:00:00,South,2.3,COD,15
+ORD_433,Beauty & Health,15805,5,2023-08-05 00:00:00,South,1.6,UPI,20
+ORD_434,Grocery,10317,4,2023-08-05 12:00:00,West,4.6,COD,25
+ORD_435,Fashion,11761,6,2023-08-06 00:00:00,North,3.4,Credit Card,20
+ORD_436,Electronics,917,3,2023-08-06 12:00:00,West,2.5,Credit Card,15
+ORD_437,Home Decor,9308,9,2023-08-07 00:00:00,North,3.2,COD,20
+ORD_438,Beauty & Health,3767,5,2023-08-07 12:00:00,East,4.6,Credit Card,5
+ORD_439,Electronics,17709,3,2023-08-08 00:00:00,West,2.8,UPI,20
+ORD_440,Beauty & Health,6245,1,2023-08-08 12:00:00,South,4.2,UPI,25
+ORD_441,Beauty & Health,11838,6,2023-08-09 00:00:00,South,1.9,Debit Card,20
+ORD_442,Grocery,912,2,2023-08-09 12:00:00,South,1.7,COD,10
+ORD_443,Fashion,8043,3,2023-08-10 00:00:00,South,3.5,UPI,5
+ORD_444,Fashion,8087,1,2023-08-10 12:00:00,West,2.6,UPI,15
+ORD_445,Books,1228,9,2023-08-11 00:00:00,South,2.1,Debit Card,10
+ORD_446,Books,12157,8,2023-08-11 12:00:00,North,3.7,COD,20
+ORD_447,Grocery,6488,2,2023-08-12 00:00:00,Central,1,UPI,25
+ORD_448,Home Decor,19388,8,2023-08-12 12:00:00,Central,1.4,Net Banking,25
+ORD_449,Electronics,3467,9,2023-08-13 00:00:00,South,2.7,Credit Card,25
+ORD_450,Home Decor,15027,1,2023-08-13 12:00:00,North,1.6,UPI,5
+ORD_451,Grocery,19670,5,2023-08-14 00:00:00,Central,1.6,COD,10
+ORD_452,Fashion,16548,8,2023-08-14 12:00:00,North,3.9,Credit Card,15
+ORD_453,Beauty & Health,18006,2,2023-08-15 00:00:00,West,3.4,UPI,5
+ORD_454,Books,18455,4,2023-08-15 12:00:00,East,1.8,UPI,5
+ORD_455,Books,5573,7,2023-08-16 00:00:00,Central,3.2,COD,5
+ORD_456,Fashion,5604,3,2023-08-16 12:00:00,Central,2.3,COD,20
+ORD_457,Toys & Baby,2643,5,2023-08-17 00:00:00,West,4.3,COD,15
+ORD_458,Fashion,7857,8,2023-08-17 12:00:00,North,2.9,COD,5
+ORD_459,Beauty & Health,12543,3,2023-08-18 00:00:00,East,2.7,UPI,10
+ORD_460,Grocery,3940,4,2023-08-18 12:00:00,North,2,Debit Card,25
+ORD_461,Books,6144,9,2023-08-19 00:00:00,South,4.5,Net Banking,10
+ORD_462,Grocery,11018,7,2023-08-19 12:00:00,Central,3.2,COD,20
+ORD_463,Books,15052,1,2023-08-20 00:00:00,Central,1.2,Debit Card,25
+ORD_464,Books,3414,4,2023-08-20 12:00:00,West,4.9,Debit Card,15
+ORD_465,Beauty & Health,14084,4,2023-08-21 00:00:00,East,4.4,Credit Card,20
+ORD_466,Toys & Baby,12644,9,2023-08-21 12:00:00,East,2.1,COD,15
+ORD_467,Grocery,14897,6,2023-08-22 00:00:00,West,3.8,COD,10
+ORD_468,Fashion,9287,9,2023-08-22 12:00:00,North,1,UPI,5
+ORD_469,Fashion,14691,6,2023-08-23 00:00:00,East,4.7,Debit Card,10
+ORD_470,Books,1228,6,2023-08-23 12:00:00,South,4.1,COD,20
+ORD_471,Books,18249,5,2023-08-24 00:00:00,Central,4,Net Banking,20
+ORD_472,Home Decor,1198,5,2023-08-24 12:00:00,North,3,Net Banking,25
+ORD_473,Fashion,7686,2,2023-08-25 00:00:00,South,4.4,UPI,20
+ORD_474,Books,15012,8,2023-08-25 12:00:00,West,1.1,COD,15
+ORD_475,Toys & Baby,14423,8,2023-08-26 00:00:00,East,3.4,Net Banking,5
+ORD_476,Electronics,17279,1,2023-08-26 12:00:00,South,1.8,UPI,10
+ORD_477,Home Decor,7900,8,2023-08-27 00:00:00,East,1.6,Credit Card,15
+ORD_478,Books,4671,5,2023-08-27 12:00:00,East,2.7,COD,10
+ORD_479,Fashion,4860,2,2023-08-28 00:00:00,Central,4.7,Net Banking,15
+ORD_480,Electronics,3002,2,2023-08-28 12:00:00,West,2.6,UPI,5
+ORD_481,Beauty & Health,17601,6,2023-08-29 00:00:00,Central,4,Debit Card,10
+ORD_482,Home Decor,19666,9,2023-08-29 12:00:00,West,2.3,Debit Card,15
+ORD_483,Beauty & Health,5986,1,2023-08-30 00:00:00,North,1.1,Credit Card,10
+ORD_484,Beauty & Health,8835,6,2023-08-30 12:00:00,Central,4,Credit Card,10
+ORD_485,Toys & Baby,4991,9,2023-08-31 00:00:00,North,1.8,UPI,10
+ORD_486,Grocery,11630,8,2023-08-31 12:00:00,North,3.4,Credit Card,10
+ORD_487,Fashion,8151,6,2023-09-01 00:00:00,North,4.2,UPI,5
+ORD_488,Beauty & Health,1667,3,2023-09-01 12:00:00,North,2.4,COD,25
+ORD_489,Fashion,1562,8,2023-09-02 00:00:00,South,4.5,Net Banking,25
+ORD_490,Home Decor,19040,9,2023-09-02 12:00:00,North,1.8,UPI,20
+ORD_491,Beauty & Health,11674,1,2023-09-03 00:00:00,Central,1.3,COD,5
+ORD_492,Fashion,5229,9,2023-09-03 12:00:00,North,3.1,COD,10
+ORD_493,Toys & Baby,9848,6,2023-09-04 00:00:00,Central,4.8,UPI,10
+ORD_494,Beauty & Health,5834,6,2023-09-04 12:00:00,West,3.7,COD,15
+ORD_495,Electronics,9424,4,2023-09-05 00:00:00,South,1.3,Net Banking,5
+ORD_496,Grocery,4830,1,2023-09-05 12:00:00,Central,2.7,COD,20
+ORD_497,Grocery,7301,8,2023-09-06 00:00:00,North,1.1,Credit Card,20
+ORD_498,Toys & Baby,5346,2,2023-09-06 12:00:00,West,2.7,Credit Card,10
+ORD_499,Grocery,7231,1,2023-09-07 00:00:00,South,2.3,Debit Card,5
+ORD_500,Electronics,15868,2,2023-09-07 12:00:00,North,3,Credit Card,5
+ORD_501,Toys & Baby,17837,1,2023-09-08 00:00:00,West,1.2,Net Banking,10
+ORD_502,Toys & Baby,3039,1,2023-09-08 12:00:00,East,1.1,Net Banking,15
+ORD_503,Grocery,7556,9,2023-09-09 00:00:00,Central,2.8,Debit Card,10
+ORD_504,Grocery,12016,1,2023-09-09 12:00:00,South,2.8,Credit Card,25
+ORD_505,Books,11993,4,2023-09-10 00:00:00,South,4.8,Debit Card,20
+ORD_506,Fashion,2042,6,2023-09-10 12:00:00,West,1.3,UPI,20
+ORD_507,Beauty & Health,14464,7,2023-09-11 00:00:00,East,2.9,COD,15
+ORD_508,Home Decor,18075,2,2023-09-11 12:00:00,West,4,Credit Card,15
+ORD_509,Home Decor,6813,6,2023-09-12 00:00:00,Central,4.1,Credit Card,15
+ORD_510,Electronics,19565,7,2023-09-12 12:00:00,North,2.3,Credit Card,5
+ORD_511,Books,18424,2,2023-09-13 00:00:00,Central,4.3,Credit Card,25
+ORD_512,Books,14307,2,2023-09-13 12:00:00,East,4.6,Net Banking,20
+ORD_513,Fashion,10080,7,2023-09-14 00:00:00,East,2,UPI,20
+ORD_514,Fashion,18249,1,2023-09-14 12:00:00,South,4.9,Credit Card,10
+ORD_515,Beauty & Health,9191,8,2023-09-15 00:00:00,South,5,Net Banking,25
+ORD_516,Fashion,7994,3,2023-09-15 12:00:00,North,2.8,UPI,25
+ORD_517,Beauty & Health,4812,6,2023-09-16 00:00:00,East,4.7,COD,10
+ORD_518,Electronics,1824,9,2023-09-16 12:00:00,North,4.8,Credit Card,5
+ORD_519,Books,3641,6,2023-09-17 00:00:00,South,4.2,Debit Card,10
+ORD_520,Fashion,2310,9,2023-09-17 12:00:00,South,2.8,Net Banking,20
+ORD_521,Toys & Baby,7088,7,2023-09-18 00:00:00,East,1.9,Debit Card,10
+ORD_522,Electronics,19807,9,2023-09-18 12:00:00,Central,1.8,Net Banking,15
+ORD_523,Toys & Baby,5801,2,2023-09-19 00:00:00,Central,1.9,Net Banking,15
+ORD_524,Beauty & Health,15985,8,2023-09-19 12:00:00,West,3.5,Net Banking,5
+ORD_525,Home Decor,12214,8,2023-09-20 00:00:00,South,1.4,Net Banking,20
+ORD_526,Grocery,5248,2,2023-09-20 12:00:00,West,3.2,Debit Card,25
+ORD_527,Toys & Baby,9935,4,2023-09-21 00:00:00,North,1.3,Net Banking,15
+ORD_528,Books,4209,7,2023-09-21 12:00:00,Central,4.6,Credit Card,15
+ORD_529,Fashion,13616,4,2023-09-22 00:00:00,North,4.6,COD,15
+ORD_530,Electronics,10076,4,2023-09-22 12:00:00,South,1.1,COD,15
+ORD_531,Electronics,10650,6,2023-09-23 00:00:00,East,2.2,Debit Card,5
+ORD_532,Electronics,19956,6,2023-09-23 12:00:00,East,3.6,Debit Card,10
+ORD_533,Fashion,7030,3,2023-09-24 00:00:00,Central,1.8,Credit Card,5
+ORD_534,Grocery,10688,9,2023-09-24 12:00:00,East,4.9,Credit Card,15
+ORD_535,Beauty & Health,15183,2,2023-09-25 00:00:00,Central,3.5,Debit Card,5
+ORD_536,Books,1004,6,2023-09-25 12:00:00,Central,2.4,Net Banking,5
+ORD_537,Grocery,1714,7,2023-09-26 00:00:00,West,1.2,UPI,15
+ORD_538,Books,2031,9,2023-09-26 12:00:00,North,1.7,Credit Card,25
+ORD_539,Electronics,1323,3,2023-09-27 00:00:00,South,1.4,Net Banking,25
+ORD_540,Books,17812,3,2023-09-27 12:00:00,North,2.8,Debit Card,5
+ORD_541,Toys & Baby,5529,7,2023-09-28 00:00:00,North,1.1,Debit Card,20
+ORD_542,Home Decor,13928,4,2023-09-28 12:00:00,North,4.8,Credit Card,5
+ORD_543,Home Decor,17017,8,2023-09-29 00:00:00,West,3.4,UPI,15
+ORD_544,Electronics,2605,7,2023-09-29 12:00:00,Central,2.1,Debit Card,20
+ORD_545,Electronics,4127,5,2023-09-30 00:00:00,West,1.3,Credit Card,25
+ORD_546,Books,13472,7,2023-09-30 12:00:00,South,1.1,Net Banking,5
+ORD_547,Grocery,2352,3,2023-10-01 00:00:00,East,1.8,Credit Card,5
+ORD_548,Electronics,5410,2,2023-10-01 12:00:00,West,2.7,COD,5
+ORD_549,Beauty & Health,11503,6,2023-10-02 00:00:00,East,2.3,UPI,10
+ORD_550,Home Decor,14343,2,2023-10-02 12:00:00,South,1.9,COD,25
+ORD_551,Fashion,12204,3,2023-10-03 00:00:00,North,4.2,UPI,15
+ORD_552,Beauty & Health,16261,6,2023-10-03 12:00:00,North,3.1,COD,20
+ORD_553,Electronics,6690,5,2023-10-04 00:00:00,South,3.3,Credit Card,10
+ORD_554,Home Decor,18140,8,2023-10-04 12:00:00,South,2.1,Credit Card,10
+ORD_555,Beauty & Health,6145,9,2023-10-05 00:00:00,North,2.9,Net Banking,5
+ORD_556,Books,10088,3,2023-10-05 12:00:00,Central,4.7,UPI,25
+ORD_557,Toys & Baby,12329,3,2023-10-06 00:00:00,West,1.7,Debit Card,20
+ORD_558,Grocery,8553,3,2023-10-06 12:00:00,North,2,Net Banking,25
+ORD_559,Grocery,3830,6,2023-10-07 00:00:00,East,2.8,Net Banking,15
+ORD_560,Electronics,19587,1,2023-10-07 12:00:00,Central,1.9,Credit Card,20
+ORD_561,Home Decor,9162,7,2023-10-08 00:00:00,North,4.2,COD,25
+ORD_562,Beauty & Health,7614,1,2023-10-08 12:00:00,West,2.2,COD,25
+ORD_563,Grocery,13823,5,2023-10-09 00:00:00,West,4.9,UPI,5
+ORD_564,Electronics,1853,8,2023-10-09 12:00:00,North,2.6,Net Banking,5
+ORD_565,Grocery,11475,4,2023-10-10 00:00:00,East,4.5,Net Banking,15
+ORD_566,Beauty & Health,11523,5,2023-10-10 12:00:00,East,3.9,Debit Card,25
+ORD_567,Electronics,1167,4,2023-10-11 00:00:00,East,2.5,Net Banking,20
+ORD_568,Home Decor,9837,4,2023-10-11 12:00:00,West,3,COD,20
+ORD_569,Beauty & Health,14159,8,2023-10-12 00:00:00,North,4.7,Net Banking,20
+ORD_570,Toys & Baby,4219,2,2023-10-12 12:00:00,South,2.8,Credit Card,5
+ORD_571,Books,19629,1,2023-10-13 00:00:00,East,3.9,Debit Card,10
+ORD_572,Books,7983,3,2023-10-13 12:00:00,South,2.4,Credit Card,25
+ORD_573,Home Decor,1039,9,2023-10-14 00:00:00,North,3.2,COD,25
+ORD_574,Fashion,5464,4,2023-10-14 12:00:00,Central,3.1,UPI,10
+ORD_575,Beauty & Health,5335,5,2023-10-15 00:00:00,West,3.4,COD,5
+ORD_576,Home Decor,6542,2,2023-10-15 12:00:00,South,3.9,Net Banking,20
+ORD_577,Electronics,15337,4,2023-10-16 00:00:00,South,4.8,Net Banking,5
+ORD_578,Toys & Baby,7812,2,2023-10-16 12:00:00,Central,2.3,UPI,20
+ORD_579,Electronics,5820,2,2023-10-17 00:00:00,West,4,Debit Card,25
+ORD_580,Books,13716,4,2023-10-17 12:00:00,West,1.2,Debit Card,25
+ORD_581,Books,3279,6,2023-10-18 00:00:00,North,4.1,Credit Card,20
+ORD_582,Books,17808,7,2023-10-18 12:00:00,North,2,Debit Card,20
+ORD_583,Fashion,2081,3,2023-10-19 00:00:00,Central,4.4,Credit Card,10
+ORD_584,Home Decor,13177,3,2023-10-19 12:00:00,Central,4.7,COD,10
+ORD_585,Fashion,6213,6,2023-10-20 00:00:00,South,2.1,COD,20
+ORD_586,Home Decor,17139,3,2023-10-20 12:00:00,Central,4.9,UPI,5
+ORD_587,Home Decor,5304,2,2023-10-21 00:00:00,East,2.9,Net Banking,10
+ORD_588,Home Decor,18722,8,2023-10-21 12:00:00,South,1.1,Credit Card,10
+ORD_589,Electronics,10636,5,2023-10-22 00:00:00,North,2.7,Debit Card,10
+ORD_590,Grocery,509,1,2023-10-22 12:00:00,North,4.1,UPI,15
+ORD_591,Electronics,19755,3,2023-10-23 00:00:00,Central,2.7,COD,10
+ORD_592,Beauty & Health,5624,8,2023-10-23 12:00:00,Central,1.4,UPI,5
+ORD_593,Beauty & Health,1515,4,2023-10-24 00:00:00,North,3.2,Credit Card,20
+ORD_594,Toys & Baby,2693,7,2023-10-24 12:00:00,West,5,Debit Card,25
+ORD_595,Grocery,8915,2,2023-10-25 00:00:00,South,2.3,Debit Card,10
+ORD_596,Electronics,14050,7,2023-10-25 12:00:00,North,3.3,Net Banking,5
+ORD_597,Electronics,15012,5,2023-10-26 00:00:00,North,4.1,Credit Card,5
+ORD_598,Toys & Baby,4658,5,2023-10-26 12:00:00,West,4.7,UPI,25
+ORD_599,Electronics,7470,6,2023-10-27 00:00:00,West,3.1,Credit Card,5
+ORD_600,Toys & Baby,7438,9,2023-10-27 12:00:00,Central,1.8,COD,5
+ORD_601,Electronics,14272,6,2023-10-28 00:00:00,West,4.5,COD,25
+ORD_602,Grocery,18517,8,2023-10-28 12:00:00,South,4,Credit Card,10
+ORD_603,Toys & Baby,10844,7,2023-10-29 00:00:00,South,3.5,UPI,5
+ORD_604,Grocery,7766,9,2023-10-29 12:00:00,East,2.9,COD,25
+ORD_605,Beauty & Health,9202,4,2023-10-30 00:00:00,Central,3.8,UPI,10
+ORD_606,Electronics,884,2,2023-10-30 12:00:00,North,3.1,Debit Card,25
+ORD_607,Toys & Baby,904,7,2023-10-31 00:00:00,South,1.8,Credit Card,15
+ORD_608,Fashion,8675,6,2023-10-31 12:00:00,South,2.2,COD,5
+ORD_609,Toys & Baby,15658,1,2023-11-01 00:00:00,East,1.7,Debit Card,20
+ORD_610,Electronics,13263,9,2023-11-01 12:00:00,West,2.2,Net Banking,15
+ORD_611,Home Decor,18884,9,2023-11-02 00:00:00,Central,2.9,Net Banking,25
+ORD_612,Beauty & Health,10360,2,2023-11-02 12:00:00,Central,3.9,UPI,25
+ORD_613,Books,6489,3,2023-11-03 00:00:00,East,1,UPI,10
+ORD_614,Grocery,15606,5,2023-11-03 12:00:00,Central,1.9,COD,5
+ORD_615,Grocery,18344,5,2023-11-04 00:00:00,South,1.9,UPI,10
+ORD_616,Toys & Baby,4136,1,2023-11-04 12:00:00,Central,1.4,Debit Card,15
+ORD_617,Fashion,11416,8,2023-11-05 00:00:00,West,4.7,COD,5
+ORD_618,Grocery,5309,8,2023-11-05 12:00:00,North,4.6,Credit Card,15
+ORD_619,Toys & Baby,13956,4,2023-11-06 00:00:00,West,1.2,Debit Card,15
+ORD_620,Fashion,15944,7,2023-11-06 12:00:00,North,5,COD,15
+ORD_621,Grocery,6497,3,2023-11-07 00:00:00,North,2.7,Net Banking,15
+ORD_622,Toys & Baby,2548,6,2023-11-07 12:00:00,West,3.9,UPI,10
+ORD_623,Home Decor,12838,9,2023-11-08 00:00:00,Central,3.1,Debit Card,5
+ORD_624,Toys & Baby,17600,1,2023-11-08 12:00:00,East,2.1,Debit Card,15
+ORD_625,Home Decor,5044,5,2023-11-09 00:00:00,West,1.9,UPI,10
+ORD_626,Fashion,5476,4,2023-11-09 12:00:00,South,1.9,COD,25
+ORD_627,Books,13275,8,2023-11-10 00:00:00,South,4.8,UPI,5
+ORD_628,Fashion,10515,1,2023-11-10 12:00:00,South,3.1,Net Banking,25
+ORD_629,Grocery,3919,9,2023-11-11 00:00:00,South,2.1,Debit Card,10
+ORD_630,Grocery,14930,6,2023-11-11 12:00:00,South,4.4,Net Banking,20
+ORD_631,Fashion,7739,4,2023-11-12 00:00:00,West,1.3,Debit Card,10
+ORD_632,Fashion,14989,9,2023-11-12 12:00:00,North,3.9,COD,25
+ORD_633,Grocery,17133,5,2023-11-13 00:00:00,West,1.1,COD,25
+ORD_634,Electronics,10857,5,2023-11-13 12:00:00,Central,2.6,Debit Card,15
+ORD_635,Books,17654,5,2023-11-14 00:00:00,West,1,Credit Card,25
+ORD_636,Fashion,4863,1,2023-11-14 12:00:00,North,3.4,Credit Card,10
+ORD_637,Beauty & Health,10676,1,2023-11-15 00:00:00,West,3.8,Debit Card,20
+ORD_638,Home Decor,17961,8,2023-11-15 12:00:00,Central,2.2,Net Banking,5
+ORD_639,Beauty & Health,8927,8,2023-11-16 00:00:00,South,4.2,Net Banking,20
+ORD_640,Grocery,9080,6,2023-11-16 12:00:00,North,3,Debit Card,20
+ORD_641,Beauty & Health,5358,4,2023-11-17 00:00:00,North,3.7,Credit Card,10
+ORD_642,Home Decor,10540,2,2023-11-17 12:00:00,Central,3.7,COD,5
+ORD_643,Home Decor,19698,2,2023-11-18 00:00:00,North,4.3,UPI,5
+ORD_644,Electronics,15754,9,2023-11-18 12:00:00,West,5,Net Banking,20
+ORD_645,Grocery,11970,5,2023-11-19 00:00:00,East,4.9,Net Banking,15
+ORD_646,Books,1752,4,2023-11-19 12:00:00,North,2.3,Credit Card,25
+ORD_647,Toys & Baby,7496,1,2023-11-20 00:00:00,South,2.1,Net Banking,25
+ORD_648,Home Decor,12673,7,2023-11-20 12:00:00,North,2.5,Net Banking,20
+ORD_649,Fashion,5173,3,2023-11-21 00:00:00,North,2.1,Credit Card,5
+ORD_650,Books,16281,6,2023-11-21 12:00:00,North,1.1,COD,15
+ORD_651,Books,13551,5,2023-11-22 00:00:00,South,3.1,Net Banking,15
+ORD_652,Books,7381,5,2023-11-22 12:00:00,Central,1.5,Debit Card,5
+ORD_653,Toys & Baby,7449,5,2023-11-23 00:00:00,East,3.1,Net Banking,15
+ORD_654,Grocery,10021,1,2023-11-23 12:00:00,South,2.2,Credit Card,25
+ORD_655,Grocery,8517,1,2023-11-24 00:00:00,West,3.2,COD,15
+ORD_656,Electronics,7441,3,2023-11-24 12:00:00,East,1.9,COD,5
+ORD_657,Fashion,10709,4,2023-11-25 00:00:00,North,1.3,COD,20
+ORD_658,Beauty & Health,18215,5,2023-11-25 12:00:00,West,3,Debit Card,15
+ORD_659,Toys & Baby,10050,2,2023-11-26 00:00:00,North,1.3,Net Banking,5
+ORD_660,Grocery,5137,8,2023-11-26 12:00:00,South,1.8,COD,25
+ORD_661,Home Decor,5354,2,2023-11-27 00:00:00,South,3.8,Credit Card,25
+ORD_662,Home Decor,10820,9,2023-11-27 12:00:00,North,2.8,Credit Card,5
+ORD_663,Home Decor,19064,2,2023-11-28 00:00:00,South,4.3,UPI,5
+ORD_664,Books,5392,9,2023-11-28 12:00:00,East,3.2,UPI,5
+ORD_665,Fashion,7543,7,2023-11-29 00:00:00,South,4.2,Debit Card,5
+ORD_666,Electronics,17021,8,2023-11-29 12:00:00,South,2.8,Credit Card,10
+ORD_667,Grocery,19716,2,2023-11-30 00:00:00,North,2.7,Net Banking,10
+ORD_668,Books,4664,7,2023-11-30 12:00:00,West,4.9,COD,20
+ORD_669,Fashion,8441,6,2023-12-01 00:00:00,Central,1.8,Net Banking,10
+ORD_670,Home Decor,14888,4,2023-12-01 12:00:00,North,2.8,UPI,5
+ORD_671,Beauty & Health,6069,7,2023-12-02 00:00:00,West,2.3,Credit Card,5
+ORD_672,Electronics,4800,4,2023-12-02 12:00:00,North,3.3,COD,5
+ORD_673,Fashion,6769,2,2023-12-03 00:00:00,Central,1.7,Net Banking,20
+ORD_674,Beauty & Health,4318,7,2023-12-03 12:00:00,West,1.9,Net Banking,15
+ORD_675,Fashion,12515,8,2023-12-04 00:00:00,West,4.8,Net Banking,25
+ORD_676,Fashion,12734,2,2023-12-04 12:00:00,South,1.2,Credit Card,25
+ORD_677,Electronics,18790,5,2023-12-05 00:00:00,East,4.3,Net Banking,10
+ORD_678,Grocery,6754,1,2023-12-05 12:00:00,North,3.6,UPI,10
+ORD_679,Books,17644,7,2023-12-06 00:00:00,East,4.9,Net Banking,5
+ORD_680,Toys & Baby,7850,8,2023-12-06 12:00:00,East,4.9,Net Banking,20
+ORD_681,Books,15683,6,2023-12-07 00:00:00,East,3.5,UPI,20
+ORD_682,Grocery,6738,5,2023-12-07 12:00:00,Central,2.4,UPI,5
+ORD_683,Books,6590,6,2023-12-08 00:00:00,North,1.5,Credit Card,5
+ORD_684,Beauty & Health,12137,2,2023-12-08 12:00:00,West,2.4,Credit Card,5
+ORD_685,Books,13147,1,2023-12-09 00:00:00,North,4.3,Credit Card,25
+ORD_686,Toys & Baby,10411,7,2023-12-09 12:00:00,East,1.1,UPI,15
+ORD_687,Toys & Baby,8972,7,2023-12-10 00:00:00,North,1.4,COD,25
+ORD_688,Grocery,18771,2,2023-12-10 12:00:00,North,3.4,Net Banking,5
+ORD_689,Beauty & Health,3766,2,2023-12-11 00:00:00,South,3.3,Credit Card,5
+ORD_690,Toys & Baby,1166,1,2023-12-11 12:00:00,South,1.6,Credit Card,5
+ORD_691,Electronics,4688,8,2023-12-12 00:00:00,East,1.4,Net Banking,25
+ORD_692,Electronics,17555,8,2023-12-12 12:00:00,East,2,Debit Card,20
+ORD_693,Fashion,10661,1,2023-12-13 00:00:00,East,4.1,UPI,5
+ORD_694,Books,11814,8,2023-12-13 12:00:00,Central,4.7,Debit Card,15
+ORD_695,Toys & Baby,13391,9,2023-12-14 00:00:00,North,3.4,Net Banking,5
+ORD_696,Books,5277,4,2023-12-14 12:00:00,Central,2.7,COD,15
+ORD_697,Grocery,4400,1,2023-12-15 00:00:00,South,3.3,Credit Card,15
+ORD_698,Beauty & Health,14216,1,2023-12-15 12:00:00,West,4.6,Net Banking,15
+ORD_699,Electronics,7481,3,2023-12-16 00:00:00,North,1.5,COD,10
+ORD_700,Fashion,6876,5,2023-12-16 12:00:00,North,3.9,Net Banking,15
+ORD_701,Toys & Baby,17407,5,2023-12-17 00:00:00,North,2.6,Net Banking,20
+ORD_702,Fashion,19277,9,2023-12-17 12:00:00,Central,2.4,Debit Card,5
+ORD_703,Fashion,19477,2,2023-12-18 00:00:00,East,1.1,UPI,25
+ORD_704,Books,10660,2,2023-12-18 12:00:00,South,4.9,Net Banking,15
+ORD_705,Beauty & Health,14624,6,2023-12-19 00:00:00,Central,4.8,COD,20
+ORD_706,Grocery,16782,9,2023-12-19 12:00:00,South,2,COD,25
+ORD_707,Grocery,10988,1,2023-12-20 00:00:00,East,5,COD,20
+ORD_708,Home Decor,5740,9,2023-12-20 12:00:00,West,3.1,UPI,10
+ORD_709,Toys & Baby,10953,9,2023-12-21 00:00:00,East,4.9,UPI,20
+ORD_710,Beauty & Health,10978,9,2023-12-21 12:00:00,North,3.4,COD,20
+ORD_711,Fashion,12894,5,2023-12-22 00:00:00,North,4,Debit Card,5
+ORD_712,Fashion,19762,9,2023-12-22 12:00:00,Central,4.1,UPI,15
+ORD_713,Electronics,4932,4,2023-12-23 00:00:00,East,3.6,Net Banking,20
+ORD_714,Books,14068,2,2023-12-23 12:00:00,Central,1.1,Debit Card,5
+ORD_715,Fashion,14678,6,2023-12-24 00:00:00,South,2.1,Debit Card,25
+ORD_716,Home Decor,18160,4,2023-12-24 12:00:00,West,4.1,COD,20
+ORD_717,Fashion,802,6,2023-12-25 00:00:00,South,4.3,Net Banking,5
+ORD_718,Home Decor,17522,3,2023-12-25 12:00:00,South,3.7,Debit Card,25
+ORD_719,Electronics,555,6,2023-12-26 00:00:00,East,1,COD,20
+ORD_720,Beauty & Health,13513,2,2023-12-26 12:00:00,North,1.1,COD,5
+ORD_721,Books,9217,2,2023-12-27 00:00:00,Central,4.8,COD,5
+ORD_722,Grocery,8650,9,2023-12-27 12:00:00,East,1.2,Debit Card,5
+ORD_723,Home Decor,2625,7,2023-12-28 00:00:00,South,2.5,COD,25
+ORD_724,Fashion,11979,3,2023-12-28 12:00:00,East,1.5,Debit Card,10
+ORD_725,Beauty & Health,16245,1,2023-12-29 00:00:00,West,4.8,Debit Card,20
+ORD_726,Books,17248,8,2023-12-29 12:00:00,North,4.2,Net Banking,15
+ORD_727,Grocery,7309,6,2023-12-30 00:00:00,North,1.7,Debit Card,20
+ORD_728,Beauty & Health,5121,7,2023-12-30 12:00:00,East,4,COD,15
+ORD_729,Books,15534,9,2023-12-31 00:00:00,Central,3.8,COD,10
+ORD_730,Electronics,14123,5,2023-12-31 12:00:00,East,2.8,Debit Card,5
+ORD_731,Home Decor,5626,1,2024-01-01 00:00:00,Central,3.8,Debit Card,10
+ORD_732,Home Decor,5622,7,2024-01-01 12:00:00,South,1.2,Credit Card,25
+ORD_733,Home Decor,18530,5,2024-01-02 00:00:00,East,4.5,COD,5
+ORD_734,Fashion,17802,3,2024-01-02 12:00:00,North,3.4,Credit Card,5
+ORD_735,Home Decor,19681,9,2024-01-03 00:00:00,Central,4.8,COD,10
+ORD_736,Electronics,6370,1,2024-01-03 12:00:00,East,3,UPI,10
+ORD_737,Fashion,2031,1,2024-01-04 00:00:00,Central,2.3,Debit Card,5
+ORD_738,Grocery,8672,1,2024-01-04 12:00:00,West,1.3,COD,25
+ORD_739,Home Decor,8173,3,2024-01-05 00:00:00,West,4,COD,20
+ORD_740,Grocery,7382,6,2024-01-05 12:00:00,East,3.7,Credit Card,25
+ORD_741,Home Decor,2406,3,2024-01-06 00:00:00,East,4.6,COD,10
+ORD_742,Electronics,3586,8,2024-01-06 12:00:00,North,1.8,COD,15
+ORD_743,Fashion,14003,2,2024-01-07 00:00:00,South,2.4,Credit Card,5
+ORD_744,Home Decor,8652,9,2024-01-07 12:00:00,West,4.5,COD,15
+ORD_745,Home Decor,6250,3,2024-01-08 00:00:00,South,3.3,COD,10
+ORD_746,Electronics,13272,5,2024-01-08 12:00:00,East,1.4,Net Banking,20
+ORD_747,Books,10767,8,2024-01-09 00:00:00,East,2.1,UPI,20
+ORD_748,Toys & Baby,1562,2,2024-01-09 12:00:00,West,3.8,COD,20
+ORD_749,Toys & Baby,18860,6,2024-01-10 00:00:00,West,3,Debit Card,5
+ORD_750,Grocery,18180,5,2024-01-10 12:00:00,East,1.2,Debit Card,20
+ORD_751,Fashion,6729,9,2024-01-11 00:00:00,East,1.1,COD,25
+ORD_752,Home Decor,17009,5,2024-01-11 12:00:00,West,3.5,COD,10
+ORD_753,Books,15647,2,2024-01-12 00:00:00,Central,4.1,Debit Card,5
+ORD_754,Fashion,5132,5,2024-01-12 12:00:00,West,2.4,UPI,25
+ORD_755,Fashion,6788,4,2024-01-13 00:00:00,South,2,COD,15
+ORD_756,Toys & Baby,4096,7,2024-01-13 12:00:00,East,2.3,Debit Card,10
+ORD_757,Home Decor,11975,6,2024-01-14 00:00:00,Central,2.8,UPI,10
+ORD_758,Home Decor,6668,2,2024-01-14 12:00:00,North,1.8,UPI,5
+ORD_759,Books,10295,5,2024-01-15 00:00:00,East,1.9,UPI,10
+ORD_760,Grocery,8061,7,2024-01-15 12:00:00,West,2.1,Credit Card,5
+ORD_761,Books,8758,7,2024-01-16 00:00:00,East,3.5,COD,25
+ORD_762,Home Decor,17116,5,2024-01-16 12:00:00,Central,3.8,Net Banking,20
+ORD_763,Grocery,6871,9,2024-01-17 00:00:00,Central,4.3,UPI,10
+ORD_764,Fashion,14869,4,2024-01-17 12:00:00,East,4.6,Net Banking,20
+ORD_765,Beauty & Health,13410,3,2024-01-18 00:00:00,Central,1.3,Net Banking,10
+ORD_766,Electronics,8443,4,2024-01-18 12:00:00,East,2.4,Credit Card,15
+ORD_767,Beauty & Health,12699,5,2024-01-19 00:00:00,East,4.1,UPI,5
+ORD_768,Electronics,16228,6,2024-01-19 12:00:00,South,3,Debit Card,5
+ORD_769,Fashion,7238,3,2024-01-20 00:00:00,West,1.2,Credit Card,10
+ORD_770,Electronics,16413,2,2024-01-20 12:00:00,South,1.2,UPI,15
+ORD_771,Books,2972,4,2024-01-21 00:00:00,West,2.6,UPI,15
+ORD_772,Beauty & Health,19623,5,2024-01-21 12:00:00,West,4,COD,5
+ORD_773,Home Decor,16179,4,2024-01-22 00:00:00,North,4.2,COD,20
+ORD_774,Home Decor,2261,3,2024-01-22 12:00:00,Central,1.3,COD,15
+ORD_775,Home Decor,10667,8,2024-01-23 00:00:00,South,3.1,Net Banking,25
+ORD_776,Grocery,11054,4,2024-01-23 12:00:00,Central,4.7,Debit Card,10
+ORD_777,Home Decor,17760,2,2024-01-24 00:00:00,Central,2.2,Credit Card,20
+ORD_778,Grocery,14777,2,2024-01-24 12:00:00,West,2.2,UPI,10
+ORD_779,Fashion,4312,1,2024-01-25 00:00:00,West,3,COD,25
+ORD_780,Beauty & Health,18344,4,2024-01-25 12:00:00,Central,1.9,COD,20
+ORD_781,Fashion,18617,9,2024-01-26 00:00:00,Central,4.5,COD,20
+ORD_782,Electronics,2105,7,2024-01-26 12:00:00,North,2.9,UPI,15
+ORD_783,Home Decor,6122,7,2024-01-27 00:00:00,East,2.2,UPI,25
+ORD_784,Beauty & Health,7267,7,2024-01-27 12:00:00,North,2.2,Credit Card,10
+ORD_785,Beauty & Health,12113,8,2024-01-28 00:00:00,Central,4.3,Credit Card,10
+ORD_786,Fashion,11089,1,2024-01-28 12:00:00,East,3.1,COD,10
+ORD_787,Toys & Baby,14418,8,2024-01-29 00:00:00,West,4,UPI,20
+ORD_788,Home Decor,13546,4,2024-01-29 12:00:00,South,2.1,Credit Card,5
+ORD_789,Books,3090,4,2024-01-30 00:00:00,West,3.7,COD,5
+ORD_790,Home Decor,17947,4,2024-01-30 12:00:00,North,2.9,COD,5
+ORD_791,Grocery,4824,6,2024-01-31 00:00:00,East,1.7,COD,10
+ORD_792,Electronics,11287,7,2024-01-31 12:00:00,North,2.1,Credit Card,25
+ORD_793,Fashion,9611,6,2024-02-01 00:00:00,West,4.2,UPI,25
+ORD_794,Home Decor,5842,1,2024-02-01 12:00:00,West,1.1,Debit Card,10
+ORD_795,Books,16889,8,2024-02-02 00:00:00,West,1.8,Credit Card,20
+ORD_796,Home Decor,9159,7,2024-02-02 12:00:00,West,4.5,Credit Card,10
+ORD_797,Home Decor,14543,6,2024-02-03 00:00:00,North,3.7,UPI,5
+ORD_798,Home Decor,9337,6,2024-02-03 12:00:00,Central,3.9,COD,15
+ORD_799,Beauty & Health,617,5,2024-02-04 00:00:00,West,1.3,Credit Card,5
+ORD_800,Electronics,14417,6,2024-02-04 12:00:00,South,2.1,Debit Card,10
+ORD_801,Grocery,19435,9,2024-02-05 00:00:00,South,3,Debit Card,25
+ORD_802,Toys & Baby,14809,9,2024-02-05 12:00:00,North,4,COD,20
+ORD_803,Beauty & Health,13734,8,2024-02-06 00:00:00,Central,4.5,Debit Card,5
+ORD_804,Fashion,6060,9,2024-02-06 12:00:00,East,3.1,Debit Card,15
+ORD_805,Grocery,1346,8,2024-02-07 00:00:00,East,2.4,Net Banking,15
+ORD_806,Grocery,11454,8,2024-02-07 12:00:00,East,1.1,Debit Card,5
+ORD_807,Toys & Baby,14203,1,2024-02-08 00:00:00,East,2.4,Debit Card,20
+ORD_808,Grocery,15885,5,2024-02-08 12:00:00,North,3.7,Debit Card,25
+ORD_809,Home Decor,14246,4,2024-02-09 00:00:00,Central,1.8,Credit Card,25
+ORD_810,Grocery,6969,2,2024-02-09 12:00:00,Central,3.1,Debit Card,25
+ORD_811,Fashion,9833,8,2024-02-10 00:00:00,West,2.2,Debit Card,15
+ORD_812,Toys & Baby,17108,3,2024-02-10 12:00:00,North,2.7,Debit Card,5
+ORD_813,Electronics,13319,4,2024-02-11 00:00:00,East,1.7,Credit Card,20
+ORD_814,Beauty & Health,4708,7,2024-02-11 12:00:00,Central,4,UPI,10
+ORD_815,Toys & Baby,6783,9,2024-02-12 00:00:00,South,4,Debit Card,5
+ORD_816,Fashion,2548,2,2024-02-12 12:00:00,West,3.8,Net Banking,15
+ORD_817,Beauty & Health,6733,3,2024-02-13 00:00:00,West,1.3,UPI,25
+ORD_818,Electronics,13441,4,2024-02-13 12:00:00,West,4,Debit Card,10
+ORD_819,Books,13107,1,2024-02-14 00:00:00,East,4.3,Credit Card,20
+ORD_820,Fashion,10265,7,2024-02-14 12:00:00,East,4,UPI,10
+ORD_821,Electronics,2328,2,2024-02-15 00:00:00,East,2.4,Credit Card,25
+ORD_822,Books,2417,5,2024-02-15 12:00:00,South,3.4,Net Banking,10
+ORD_823,Beauty & Health,7488,1,2024-02-16 00:00:00,West,3.3,UPI,25
+ORD_824,Home Decor,18910,3,2024-02-16 12:00:00,West,2.2,UPI,10
+ORD_825,Beauty & Health,15094,2,2024-02-17 00:00:00,Central,2.9,COD,5
+ORD_826,Books,13477,1,2024-02-17 12:00:00,West,4.6,UPI,10
+ORD_827,Grocery,509,7,2024-02-18 00:00:00,West,4.1,Debit Card,5
+ORD_828,Fashion,17144,5,2024-02-18 12:00:00,North,1.8,UPI,15
+ORD_829,Beauty & Health,10365,1,2024-02-19 00:00:00,East,3.6,COD,15
+ORD_830,Grocery,2719,6,2024-02-19 12:00:00,West,1.4,Net Banking,20
+ORD_831,Home Decor,7541,5,2024-02-20 00:00:00,South,1.1,Net Banking,10
+ORD_832,Electronics,18944,3,2024-02-20 12:00:00,East,3.1,COD,10
+ORD_833,Beauty & Health,5787,7,2024-02-21 00:00:00,Central,2.8,COD,25
+ORD_834,Home Decor,2119,9,2024-02-21 12:00:00,West,3.6,Net Banking,10
+ORD_835,Electronics,9012,9,2024-02-22 00:00:00,South,2.7,Credit Card,15
+ORD_836,Toys & Baby,1842,9,2024-02-22 12:00:00,West,5,Net Banking,10
+ORD_837,Toys & Baby,11068,2,2024-02-23 00:00:00,South,4.8,Credit Card,25
+ORD_838,Electronics,19716,3,2024-02-23 12:00:00,North,3.3,Net Banking,10
+ORD_839,Grocery,19708,7,2024-02-24 00:00:00,West,3.9,COD,25
+ORD_840,Fashion,18878,5,2024-02-24 12:00:00,West,3.4,Credit Card,25
+ORD_841,Fashion,14731,2,2024-02-25 00:00:00,North,1.5,Debit Card,25
+ORD_842,Electronics,3990,3,2024-02-25 12:00:00,West,3.8,Credit Card,10
+ORD_843,Books,9810,6,2024-02-26 00:00:00,West,3.9,Credit Card,10
+ORD_844,Grocery,8484,7,2024-02-26 12:00:00,North,4.8,Net Banking,5
+ORD_845,Toys & Baby,18488,9,2024-02-27 00:00:00,North,2.6,Debit Card,20
+ORD_846,Electronics,12719,1,2024-02-27 12:00:00,East,3.1,Net Banking,20
+ORD_847,Toys & Baby,735,7,2024-02-28 00:00:00,West,4.1,Debit Card,25
+ORD_848,Grocery,10661,8,2024-02-28 12:00:00,South,2,Net Banking,20
+ORD_849,Electronics,2408,3,2024-02-29 00:00:00,West,1.3,Net Banking,5
+ORD_850,Fashion,9067,4,2024-02-29 12:00:00,East,4.4,Net Banking,10
+ORD_851,Electronics,4030,6,2024-03-01 00:00:00,Central,4.2,Credit Card,5
+ORD_852,Books,5756,7,2024-03-01 12:00:00,North,3.1,UPI,10
+ORD_853,Fashion,19519,4,2024-03-02 00:00:00,South,4,Net Banking,10
+ORD_854,Grocery,8662,8,2024-03-02 12:00:00,East,4.3,UPI,5
+ORD_855,Books,19444,5,2024-03-03 00:00:00,West,3.6,Debit Card,20
+ORD_856,Beauty & Health,5915,1,2024-03-03 12:00:00,North,2.8,Net Banking,25
+ORD_857,Electronics,3891,4,2024-03-04 00:00:00,North,1.1,COD,5
+ORD_858,Toys & Baby,11657,3,2024-03-04 12:00:00,West,1.4,Net Banking,15
+ORD_859,Electronics,6451,9,2024-03-05 00:00:00,South,1,COD,5
+ORD_860,Fashion,8507,8,2024-03-05 12:00:00,Central,3.8,UPI,20
+ORD_861,Books,9564,1,2024-03-06 00:00:00,South,3.1,COD,15
+ORD_862,Electronics,16024,6,2024-03-06 12:00:00,Central,1.5,Credit Card,25
+ORD_863,Electronics,19782,9,2024-03-07 00:00:00,North,3.3,Debit Card,5
+ORD_864,Electronics,577,7,2024-03-07 12:00:00,South,3,UPI,10
+ORD_865,Beauty & Health,8077,4,2024-03-08 00:00:00,North,4.5,Credit Card,25
+ORD_866,Electronics,17484,1,2024-03-08 12:00:00,Central,4.6,COD,25
+ORD_867,Fashion,14560,2,2024-03-09 00:00:00,West,2.3,UPI,20
+ORD_868,Electronics,17949,5,2024-03-09 12:00:00,North,1.1,Debit Card,20
+ORD_869,Fashion,19020,5,2024-03-10 00:00:00,North,2.6,Credit Card,5
+ORD_870,Beauty & Health,11035,8,2024-03-10 12:00:00,North,4.9,COD,5
+ORD_871,Grocery,10010,6,2024-03-11 00:00:00,West,4.2,UPI,5
+ORD_872,Home Decor,7443,8,2024-03-11 12:00:00,South,1.7,Credit Card,15
+ORD_873,Electronics,12454,2,2024-03-12 00:00:00,East,2.1,Net Banking,10
+ORD_874,Home Decor,8304,3,2024-03-12 12:00:00,East,2.5,Debit Card,15
+ORD_875,Toys & Baby,7065,6,2024-03-13 00:00:00,West,2.6,Debit Card,15
+ORD_876,Home Decor,6484,3,2024-03-13 12:00:00,South,1.4,Debit Card,10
+ORD_877,Home Decor,5170,6,2024-03-14 00:00:00,East,3.1,Net Banking,5
+ORD_878,Grocery,19074,6,2024-03-14 12:00:00,Central,2.2,UPI,25
+ORD_879,Home Decor,9684,2,2024-03-15 00:00:00,South,3.3,COD,20
+ORD_880,Fashion,19596,7,2024-03-15 12:00:00,South,1.9,UPI,5
+ORD_881,Electronics,2692,2,2024-03-16 00:00:00,East,3.6,Credit Card,25
+ORD_882,Electronics,1748,6,2024-03-16 12:00:00,East,4,Net Banking,10
+ORD_883,Beauty & Health,11746,1,2024-03-17 00:00:00,South,4.3,UPI,10
+ORD_884,Books,13290,3,2024-03-17 12:00:00,North,4.2,Net Banking,25
+ORD_885,Books,18881,2,2024-03-18 00:00:00,South,3.8,UPI,5
+ORD_886,Fashion,4187,7,2024-03-18 12:00:00,South,3,COD,20
+ORD_887,Books,4518,4,2024-03-19 00:00:00,Central,4,Debit Card,10
+ORD_888,Electronics,11802,8,2024-03-19 12:00:00,Central,4.7,COD,5
+ORD_889,Grocery,2470,6,2024-03-20 00:00:00,Central,4.5,UPI,5
+ORD_890,Books,8889,4,2024-03-20 12:00:00,North,3.8,UPI,10
+ORD_891,Grocery,18086,5,2024-03-21 00:00:00,East,2.4,UPI,5
+ORD_892,Books,15874,9,2024-03-21 12:00:00,North,1,COD,5
+ORD_893,Electronics,6288,7,2024-03-22 00:00:00,Central,3,Net Banking,5
+ORD_894,Toys & Baby,5908,9,2024-03-22 12:00:00,South,1.7,Net Banking,10
+ORD_895,Grocery,9946,7,2024-03-23 00:00:00,Central,2.4,Credit Card,5
+ORD_896,Grocery,1422,1,2024-03-23 12:00:00,South,1.1,Net Banking,10
+ORD_897,Toys & Baby,919,8,2024-03-24 00:00:00,East,1.6,UPI,15
+ORD_898,Beauty & Health,19088,4,2024-03-24 12:00:00,East,2,COD,20
+ORD_899,Toys & Baby,11289,3,2024-03-25 00:00:00,Central,4.4,Debit Card,5
+ORD_900,Beauty & Health,1620,7,2024-03-25 12:00:00,North,3.1,UPI,5
+ORD_901,Electronics,11760,3,2024-03-26 00:00:00,East,3.1,Credit Card,25
+ORD_902,Grocery,17834,8,2024-03-26 12:00:00,South,3,Credit Card,20
+ORD_903,Electronics,2836,6,2024-03-27 00:00:00,East,2.8,UPI,25
+ORD_904,Beauty & Health,5873,5,2024-03-27 12:00:00,East,4.3,UPI,10
+ORD_905,Grocery,2743,4,2024-03-28 00:00:00,East,3.7,Debit Card,5
+ORD_906,Books,19529,8,2024-03-28 12:00:00,East,4.8,Net Banking,20
+ORD_907,Toys & Baby,5112,8,2024-03-29 00:00:00,East,3.2,COD,10
+ORD_908,Grocery,14446,1,2024-03-29 12:00:00,North,3.1,Net Banking,20
+ORD_909,Electronics,18749,9,2024-03-30 00:00:00,South,4.8,Debit Card,5
+ORD_910,Home Decor,11604,5,2024-03-30 12:00:00,South,1.8,Credit Card,15
+ORD_911,Grocery,13929,4,2024-03-31 00:00:00,North,1.7,Debit Card,5
+ORD_912,Home Decor,6871,6,2024-03-31 12:00:00,Central,4.6,COD,20
+ORD_913,Grocery,6859,6,2024-04-01 00:00:00,Central,3.2,Credit Card,20
+ORD_914,Toys & Baby,8363,2,2024-04-01 12:00:00,East,1.3,UPI,15
+ORD_915,Toys & Baby,3728,8,2024-04-02 00:00:00,South,5,Credit Card,10
+ORD_916,Grocery,14882,7,2024-04-02 12:00:00,North,2.1,Debit Card,25
+ORD_917,Toys & Baby,19255,1,2024-04-03 00:00:00,North,3.4,Debit Card,15
+ORD_918,Home Decor,3391,5,2024-04-03 12:00:00,South,1,Credit Card,25
+ORD_919,Fashion,4256,6,2024-04-04 00:00:00,South,2.2,Net Banking,5
+ORD_920,Grocery,16270,4,2024-04-04 12:00:00,Central,2.7,UPI,15
+ORD_921,Grocery,16978,2,2024-04-05 00:00:00,Central,1.1,Debit Card,15
+ORD_922,Grocery,3174,4,2024-04-05 12:00:00,North,2,Net Banking,15
+ORD_923,Beauty & Health,7398,1,2024-04-06 00:00:00,West,4.2,UPI,20
+ORD_924,Beauty & Health,10647,7,2024-04-06 12:00:00,North,3.6,Debit Card,20
+ORD_925,Electronics,1293,2,2024-04-07 00:00:00,East,3.4,Credit Card,20
+ORD_926,Electronics,2616,2,2024-04-07 12:00:00,North,2,COD,10
+ORD_927,Electronics,6279,9,2024-04-08 00:00:00,Central,3.4,UPI,20
+ORD_928,Toys & Baby,12798,5,2024-04-08 12:00:00,East,3.3,Net Banking,20
+ORD_929,Electronics,14653,2,2024-04-09 00:00:00,West,4.3,Net Banking,20
+ORD_930,Fashion,11611,9,2024-04-09 12:00:00,East,3,Debit Card,25
+ORD_931,Toys & Baby,11289,9,2024-04-10 00:00:00,East,4.6,UPI,25
+ORD_932,Grocery,11897,1,2024-04-10 12:00:00,South,1.3,UPI,5
+ORD_933,Beauty & Health,13499,3,2024-04-11 00:00:00,West,2.6,UPI,25
+ORD_934,Fashion,1314,4,2024-04-11 12:00:00,West,4.3,Credit Card,10
+ORD_935,Toys & Baby,17229,7,2024-04-12 00:00:00,South,1.2,Net Banking,15
+ORD_936,Toys & Baby,11041,4,2024-04-12 12:00:00,Central,3.5,Credit Card,25
+ORD_937,Books,2943,2,2024-04-13 00:00:00,North,3.1,COD,5
+ORD_938,Books,10957,7,2024-04-13 12:00:00,West,1.7,Net Banking,10
+ORD_939,Books,10880,6,2024-04-14 00:00:00,East,4.6,UPI,25
+ORD_940,Grocery,8283,3,2024-04-14 12:00:00,North,3.5,COD,10
+ORD_941,Electronics,11973,6,2024-04-15 00:00:00,South,1.8,UPI,20
+ORD_942,Books,17868,6,2024-04-15 12:00:00,East,2.4,COD,5
+ORD_943,Beauty & Health,15828,5,2024-04-16 00:00:00,South,4.1,Net Banking,10
+ORD_944,Beauty & Health,1327,4,2024-04-16 12:00:00,Central,1.1,UPI,15
+ORD_945,Grocery,7647,1,2024-04-17 00:00:00,East,1.5,Credit Card,15
+ORD_946,Electronics,4951,6,2024-04-17 12:00:00,North,4.9,Net Banking,10
+ORD_947,Beauty & Health,15843,2,2024-04-18 00:00:00,Central,1.9,Debit Card,10
+ORD_948,Home Decor,14135,3,2024-04-18 12:00:00,West,1.7,Net Banking,20
+ORD_949,Fashion,6459,8,2024-04-19 00:00:00,South,4.7,UPI,10
+ORD_950,Beauty & Health,626,6,2024-04-19 12:00:00,South,4.5,COD,25
+ORD_951,Electronics,9295,3,2024-04-20 00:00:00,South,4.3,UPI,10
+ORD_952,Books,12141,7,2024-04-20 12:00:00,West,4.1,COD,15
+ORD_953,Fashion,7696,4,2024-04-21 00:00:00,North,1.8,Debit Card,5
+ORD_954,Beauty & Health,12059,9,2024-04-21 12:00:00,North,1.5,COD,5
+ORD_955,Electronics,3868,5,2024-04-22 00:00:00,North,1.5,Credit Card,10
+ORD_956,Toys & Baby,4297,3,2024-04-22 12:00:00,East,4.8,UPI,5
+ORD_957,Toys & Baby,15614,2,2024-04-23 00:00:00,West,2.9,Credit Card,25
+ORD_958,Home Decor,14218,2,2024-04-23 12:00:00,Central,2.9,Credit Card,20
+ORD_959,Home Decor,2292,3,2024-04-24 00:00:00,North,1.6,COD,20
+ORD_960,Toys & Baby,11553,2,2024-04-24 12:00:00,South,2.7,Credit Card,15
+ORD_961,Fashion,3976,4,2024-04-25 00:00:00,East,4.4,UPI,20
+ORD_962,Beauty & Health,3917,2,2024-04-25 12:00:00,South,2.5,Net Banking,10
+ORD_963,Home Decor,2145,9,2024-04-26 00:00:00,East,1.7,COD,5
+ORD_964,Beauty & Health,15255,2,2024-04-26 12:00:00,West,1.7,Credit Card,15
+ORD_965,Books,19914,9,2024-04-27 00:00:00,East,5,Net Banking,25
+ORD_966,Electronics,19756,6,2024-04-27 12:00:00,West,3.3,Debit Card,25
+ORD_967,Grocery,3572,1,2024-04-28 00:00:00,Central,2.1,COD,15
+ORD_968,Grocery,2354,4,2024-04-28 12:00:00,South,3.6,UPI,25
+ORD_969,Beauty & Health,5162,1,2024-04-29 00:00:00,South,3.4,UPI,5
+ORD_970,Grocery,7014,6,2024-04-29 12:00:00,North,3.4,Credit Card,15
+ORD_971,Fashion,3208,4,2024-04-30 00:00:00,South,3.3,Net Banking,10
+ORD_972,Home Decor,12194,3,2024-04-30 12:00:00,West,2.6,Debit Card,15
+ORD_973,Books,10024,3,2024-05-01 00:00:00,West,1.1,Net Banking,15
+ORD_974,Electronics,6956,9,2024-05-01 12:00:00,West,5,Debit Card,20
+ORD_975,Toys & Baby,4712,6,2024-05-02 00:00:00,South,2.9,Debit Card,25
+ORD_976,Fashion,13724,9,2024-05-02 12:00:00,West,2.1,Credit Card,5
+ORD_977,Grocery,8470,5,2024-05-03 00:00:00,East,4.4,Debit Card,25
+ORD_978,Home Decor,17420,2,2024-05-03 12:00:00,North,3.3,Net Banking,25
+ORD_979,Beauty & Health,2125,8,2024-05-04 00:00:00,Central,4.9,UPI,15
+ORD_980,Electronics,10814,5,2024-05-04 12:00:00,South,2.5,Credit Card,25
+ORD_981,Grocery,8473,2,2024-05-05 00:00:00,South,1.6,Debit Card,20
+ORD_982,Books,9077,4,2024-05-05 12:00:00,Central,3.9,Net Banking,25
+ORD_983,Fashion,8570,9,2024-05-06 00:00:00,East,3.3,Credit Card,10
+ORD_984,Fashion,9166,4,2024-05-06 12:00:00,Central,3.2,COD,10
+ORD_985,Grocery,4100,4,2024-05-07 00:00:00,West,3.7,Net Banking,10
+ORD_986,Electronics,7283,2,2024-05-07 12:00:00,North,1.5,UPI,20
+ORD_987,Toys & Baby,13726,6,2024-05-08 00:00:00,Central,2.7,Net Banking,5
+ORD_988,Grocery,9646,2,2024-05-08 12:00:00,North,1.4,Net Banking,25
+ORD_989,Grocery,5471,7,2024-05-09 00:00:00,East,3,COD,5
+ORD_990,Books,13990,3,2024-05-09 12:00:00,Central,4.4,UPI,5
+ORD_991,Beauty & Health,18089,3,2024-05-10 00:00:00,Central,1.8,Credit Card,20
+ORD_992,Fashion,13451,5,2024-05-10 12:00:00,South,4.5,UPI,15
+ORD_993,Books,12812,3,2024-05-11 00:00:00,Central,1.9,COD,10
+ORD_994,Toys & Baby,2490,2,2024-05-11 12:00:00,South,3.6,Net Banking,20
+ORD_995,Grocery,5799,9,2024-05-12 00:00:00,South,2,COD,25
+ORD_996,Books,13497,2,2024-05-12 12:00:00,South,1.8,Debit Card,15
+ORD_997,Grocery,13972,2,2024-05-13 00:00:00,Central,2,Credit Card,15
+ORD_998,Electronics,4880,8,2024-05-13 12:00:00,South,3.3,COD,5
+ORD_999,Fashion,5257,9,2024-05-14 00:00:00,West,4.7,Net Banking,25
+ORD_1000,Grocery,19597,7,2024-05-14 12:00:00,Central,4.5,COD,5
+ORD_995,,13972,null,,Central,,,
+ORD_996,,4880,,null,South,,,null
+ORD_997,null,5257,,,West,,,
+ORD_998,,19597,null,,Central,,,
+ORD_999,,,,,,,,
+ORD_1000,,,,,,,,
